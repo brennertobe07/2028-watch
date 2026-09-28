@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+*.json.bak
+data/last_run.log
+_*.html

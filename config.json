@@ -1,0 +1,20 @@
+{
+ "_help": "Hand-edited. extra_dem / extra_gop add names Wikipedia doesn't list; exclude drops names; search_names gives alternate spellings for the news query (also used to spot the candidate in headlines); va_terms are the Virginia places/figures a headline must name to count as VA coverage. Kaine/Warner are left out on purpose: they co-sign Senate letters with half the field.",
+ "extra_dem": [
+  {"name": "Cory Booker", "bio": "Cory Booker has served as a U.S. senator from New Jersey since 2013."}
+ ],
+ "extra_gop": [],
+ "exclude": [],
+ "search_names": {
+  "Alexandria Ocasio-Cortez": ["Alexandria Ocasio-Cortez", "AOC", "Ocasio-Cortez"],
+  "JB Pritzker": ["JB Pritzker", "J.B. Pritzker"],
+  "John Kennedy": ["Sen. John Kennedy", "John Neely Kennedy", "Senator John Kennedy"]
+ },
+ "va_terms": [
+  "Virginia", "Virginian", "Virginians", "Richmond", "Norfolk", "Virginia Beach", "Arlington",
+  "Alexandria, Va", "Fairfax", "Loudoun", "Prince William", "Chesterfield", "Henrico",
+  "Roanoke", "Charlottesville", "Lynchburg", "Hampton Roads", "Newport News",
+  "Chesapeake", "Fredericksburg", "Harrisonburg", "Blacksburg", "Winchester",
+  "Spanberger", "Perriello", "DPVA"
+ ]
+}
