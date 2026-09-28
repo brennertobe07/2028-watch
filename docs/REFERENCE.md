@@ -13,6 +13,10 @@ compiled; the news counts measure relative "buzz" from Google News.
 - **Live:** https://brennertobe07.github.io/2028-watch/
 - **Repo:** `brennertobe07/2028-watch` (public — only public news/polling data)
 - **Audience:** internal for now, same as poll-tracker (decided 2026-09-28)
+- **Cross-links:** header button to National Poll Tracker; poll-tracker links back here
+- **Status (2026-09-28):** v1 accepted and parked. Possible next ideas, not started:
+  Claude summary of each candidate's week, state-level (early-state) poll tables,
+  candidate visit/event tracking.
 - **Local preview:** `python -m http.server 8765` in the repo, open http://localhost:8765
   (opening index.html from disk fails — the page fetches `data/watch.json`)
 
