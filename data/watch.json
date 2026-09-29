@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28 22:01",
+ "generated": "2026-09-29 06:31",
  "delta_vs": null,
  "parties": {
   "dem": {
@@ -8,13 +8,20 @@
      "name": "Kamala Harris",
      "status": "Interested",
      "bio": "Kamala Harris served as the 49th (and first female) vice president of the United States from 2021 to 2025.",
-     "poll_avg": 25.5,
+     "poll_avg": 26.3,
      "declined": false,
-     "mentions_7d": 68,
-     "right_7d": 10,
-     "right_pct": 15,
+     "mentions_7d": 63,
+     "right_7d": 9,
+     "right_pct": 14,
      "at_cap": false,
      "headlines": [
+      {
+       "title": "Rep. Luna to Newsmax: Kamala Making Calls for 2028",
+       "source": "Newsmax",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1FaX0dyMXR1a0NFcGNYYnJrVWtENHc0VEtVM1d1NHV5U0UwM1JNcFp3dnlicUlaVWlrMVdUYlY2cmFYcjVBSkk5U1lxNVFTQkZueDl4QlozSS1GWG9PZFdZOFFuRXlzR0JpQkZ6WmZxc1J3Xzg0anN1UGFLN19QSWNPVktfYzVFZUw5R01n?oc=5",
+       "date": "2026-09-29T02:00Z",
+       "right": true
+      },
       {
        "title": "Kamala Harris’ Former Campaign Chair Won’t Commit to Backing Her in 2028",
        "source": "Newsweek",
@@ -30,6 +37,13 @@
        "right": false
       },
       {
+       "title": "David Crowley to Hobnob With Hollywood Elites and Failed Presidential Candidate Kamala Harris",
+       "source": "Urban Milwaukee",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1RTbEs0aTFHSk1GQWZ5M1YzYmR6bTk3aFZCYUphcTB1dkNFeFdXMEVlWmdENFRLdk8wVDZLQ0JoaVRKdzFXWmlOaWhYOW1vNjZYclViWUUwcDZqUUlzR1Z4a2o0bHJ1VUdVcVVBX3VfWWh3TE95clNRdkV1ZVZTVjkzQTdySU1WY2pHLWRHWFp6ckhxdHJsUUF3ZG9MUk5GTGVtVWVoLTliMWxXdzdYZWxtVGN6WjA1Z1c4N3NSYnRpMkpLLVlBOE1RSENUMkE?oc=5",
+       "date": "2026-09-27T16:43Z",
+       "right": false
+      },
+      {
        "title": "California Voters Cool on Gavin Newsom and Kamala Harris for 2028 as Harris Says ‘I Haven’t Decided’",
        "source": "The Nerd Stash",
        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSFRLay14YUxOTVFNd3dvM1lYRHM3dzRZUHpSYVFzU2ZXVGZUYnBvSVR0cF9DQ2xlWVZyd3NUczFRY2syM0NLOGx3YnVjaS1aTHZ0cUxySjVYdWdEbS1VOGViSTAtVldjR3UzSURvSFNXVWZaM3dDN0E0Zk9xdEVsS25OWnlLUTlIb0ZBQ2NRUmZKRmdJdXZYZTBMdk1GNE1lU21waGtFdUFUWFVBT2R4TDdPQWVFcUhkMkhmMmdyUmQ?oc=5",
@@ -38,7 +52,7 @@
       },
       {
        "title": "How Kamala Harris is helping America’s Democratic Party shore up votes with her niche appeal",
-       "source": "livemint.com",
+       "source": "Livemint",
        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNM1BJVTliZUNmN3FldVBvSEItTVExUENtR1NrckNzZ0hDQ1lMZEpGWG5qclFJSm4wSmNfQ2w5NUlOT0pRMXdlQ3NMbS1YcDRQYjJRTVlIOVJDeVNLZjNoTDkzZ1l6dHB0VVF3NlpDdnZ0NWhFNkg1YTBEalAtTjNTMGN5TjRNbHZNMGkyeTROQlZNX0R6R3VHRFlWMkRMcmZjSFhEdWpMRTZNOGhxVlpOLTBQM0JEQTVWakc2WWduUjJLMk5zYi1obmhsZzk1RWlLTVhMWWFjbWo4Wm5hamh0Skx3azNQVXBtQWRjRVRYMNIB9AFBVV95cUxNV1NRUkhlYTN1N1UwbGtqVFAzSEp4SlpfWUxwM25qZE1zWXpsemRKQzdJNnd0N1BtLXNqWmJ2S3puaE1Ja2xJSlVuSWdETFZlOUNDTm1fNzI4WHYtdWhtMTBSak83VjdyNzZtbWRtcm9NeUpFWE1UR3lISGpoQ0k1a0hPdzJlbmJjckJfMTdYZ015N3ZOSW9uTGRfeGcwQkJnc1Y2OVVUellGT1lWUUd6dVFrY0xBVUU1RWN4VjIyYmhFNVpfU290R1I1U2s2SC1CdjZZaEtUTk9lN1RuTm5mZkQtWVZDbV9EZk1iM2hmS1dWX1V3?oc=5",
        "date": "2026-09-27T10:00Z",
        "right": false
@@ -51,22 +65,15 @@
        "right": false
       },
       {
-       "title": "Kamala Harris on Potential 2028 Presidential Run: ‘I Am Thinking About It, but I Have Not Decided’",
-       "source": "t.co",
-       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE80TzEtYUwxTVVHM29QeGtvdUhHTldEZm9yUnNIZkxIN01jWGJZcVJZdGU4c05IVkxmVl9j?oc=5",
-       "date": "2026-09-26T14:27Z",
-       "right": false
-      },
-      {
        "title": "Kamala Harris is belatedly courting progressives. Is it too little, too late? | Arwa Mahdawi",
-       "source": "The Guardian",
+       "source": "theguardian.com",
        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDlzUXlSWnJIdUNzVURGVklJM3d5VDl0YloyWXJLcnZ3cEhzZFJYYWJkSU1vNXFDMHdaMFd4RTNlNzlXeFZjMko2NXpzSnQyNHZGOGhTZmJwMVBDWFgwNEhiY29ySjRaVUxMQnQtWUl1NmZhZm5aaXZpMmRDNTd6dkRmc3dvTUhpYTFjTzJDbUxCYS1EWEJvNGxvZw?oc=5",
        "date": "2026-09-26T12:02Z",
        "right": false
       },
       {
        "title": "The AI debate is already shaping the 2028 election. Here’s where Democratic hopefuls stand",
-       "source": "The Guardian",
+       "source": "theguardian.com",
        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnBuU3Rac3RLZXdjUXhGYUh4VTFISVdZOS1NU0xHV3lldXFGQjhFa3Y2OHpEMmFBT0Joek1UNm8xenM0QTJSSlpsaTdWb2Z0LUtnY05qSEg0anNJVXoxd1NmWkpnRl9XU1ZaNG9TRk80N205WEljY01UTXVUUEgyQXB3d2NYNDV0TldheFV6cmpZZ0RoTEN0d1U4WmFWNUp3OXc?oc=5",
        "date": "2026-09-26T11:02Z",
        "right": false
@@ -100,24 +107,17 @@
        "right": false
       },
       {
-       "title": "Kamala Harris in Detroit: ‘I Haven’t Decided’ Whether to Run for President in 2028",
-       "source": "The Michigan Chronicle",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlZGb2dRR05SNzVHMzRNV3JhcFpac2U3S3ZFU3BjUVlKYlYzWlhjUjEyS29RNzRXZHBWcWJETGZzTVplRllKVjFKT3hhWGVNRVhJV25sVlYweVN4dDd0UFhRNmsyaklvand4VmhHVzgtNzhvanlsVHFrcTZneWFjS2pLVW5mZG55UldTVjRla3hZMkUtSnFES3ZVQWlkb1RxYUNSaXlrQ1JPV3h6Qmc?oc=5",
-       "date": "2026-09-24T22:06Z",
+       "title": "“They can’t even be blamed for mass murdering“: Matt Walsh invokes Lindsay Clancy case in response to Obama’s remarks about women leading governments",
+       "source": "primetimer.com",
+       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaU5tYnhWVDFReVdLT3I3bEEwYzdYWjV4TURmY0RtaENLWk4tZDNwblJfclN0M2I1N1hSTmUyaDNVX3RZWTRkQTkwQ2xaWENjQ1NieVprSUlXTHg2WmlPNm9LaG5YYzJXZ2pDdmhEa25taWR5MllRN015Tmt6QmNYMnZLb3gxZVAwT0FCd1d3NGlBR3E3REZmam10NXBHZTdLQ25NQTc1b0NpTzRzQ2wwczBWaEcyNW5NNnNVSXg3SUtSVHFMSFpoMlNEVTJoUGVlZDhsWDRKb05pQzZISEVZRzFSOVdqdEREVG5DaEcxU0ZBMDAwdHkxSXpXNHpPX3Y3TmNmR1pkNXQxQQ?oc=5",
+       "date": "2026-09-25T02:43Z",
        "right": false
       },
       {
-       "title": "The 2028 implications of Michigan’s Senate race: From the Politics Desk",
-       "source": "NBC News",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM1p0Rm53UkM3Uk1MQUZnTmxRanFTSHZsMDgzQ3l1Y0NPRG9MbmlRVm00cXVXQXdPU2t6WndwNUNuSVZHSXEzWTBfSUs3UlJUTWZvaF9rWVA4UUp3akx4R3duMy1ZTnRNT3hfdENnRGt4VlVnWE1TMFR3VlF0TGh5aUd4OGpfbm91MEkxM0N1RXUtWVBjQ3BKSUlVZmdzUXBKaWtzN0pJaVdmUWhKa3lWNA?oc=5",
-       "date": "2026-09-24T21:00Z",
-       "right": false
-      },
-      {
-       "title": "Abdul El-Sayed helps launch the unforgivable rehabilitation of Kamala Harris",
-       "source": "Middle East Eye",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUlWYVdFSEFNOXREdXA5SkVRRmp2VFJXNFByYkJkdS1xMzh4d2pwaWhDZEEyR2lFTDlhbjRmQjJraU90ZnFjS2FfTG5uZTNnTEFkQzdNMm9fNWlNLWtUWlNVZ25DOEpIWUI4UHlyVkpvRGtZZnB6N3BTLW5HbzZWekNaYTFkMG5rTVNKcHhzZkVNcGNPcWM0Wk1nbGdOSGRXeURoT2xhX0E4TU0?oc=5",
-       "date": "2026-09-24T16:03Z",
+       "title": "‘Not a single one of them is backing her’: Kamala loses Dems’ support as 2028 dreams crushed",
+       "source": "News.com.au",
+       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYWtCb29yNmw3Q2VSbmxvQ2llclhJZjMzcnVkWWdyM2g3d1p2M1Q5cVJ5TzEtYm85Y2RTZWQ4TWtvYl9qd2FHVm5lZ0tEUE1CVVR3dDJYQ21fZ3VMY3hfcUVFUnlYLUJZaVd1T29BcHNsaFFPd3l4RHMxUG93NUh3UHk4U0szNzU3YXJZMGpqQzVYcGRmeS14M3gxSlhqRHVzRXFfaHZ2YWthaDRwdmpUNE93eTRGZzhTUUI1anB1Sno0N0E4SUNMdHB3eU9NSjJKU2VDU0Z4ajY3dGwwWFVfSmRwUkY4OXRzWHczZkk2OVdid9IB9wFBVV95cUxQUE9lZEdxeEkyYWFCZFh5bTV4MUl5WEUzMkpGY0s3WFBoRkNieFdSSV9scFB0V05BNXBCWGxWRU1fSEJZZEUxeWVYbENiLWtJelQ5Z3RNQnZ0QWJMS2RiZ2F2NmlmMGs1ZVc4cXA1aGl4TURpUEZUM0l5NGp3UDlGcGNxRHQyYlBUdVU1MWc5ZXhER04tbWtSWTkzWEdud013RkMwUjhWaUp0X1RfYU5fTmgtalRPcHBZNzQzbXBiYXBVQWJqcUs0YjJCUGNla3FyV3dNWWZMQ0dhUDlSQXJrOGlVNjJxejdHQlFGWllUMUtsd1B2Q0w0?oc=5",
+       "date": "2026-09-25T01:51Z",
        "right": false
       }
      ],
@@ -130,11 +130,11 @@
      "name": "Gavin Newsom",
      "status": "Interested",
      "bio": "Gavin Newsom has served as the 40th governor of California since 2019.",
-     "poll_avg": 15.1,
+     "poll_avg": 15.2,
      "declined": false,
      "mentions_7d": 52,
-     "right_7d": 12,
-     "right_pct": 23,
+     "right_7d": 11,
+     "right_pct": 21,
      "at_cap": false,
      "headlines": [
       {
@@ -167,9 +167,16 @@
       },
       {
        "title": "Democrats keep coming to South Carolina to stump for midterm candidates. It's all about 2028",
-       "source": "bozemandailychronicle.com",
+       "source": "Bozeman Daily Chronicle",
        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNY0NSY2hGNzlTakxXdFJyVmtoM2toVlJ0ckFkZ0tXdWFUTmctQTBINGxRLTRMbDhtMUl3RldHcHlEcDZ5MXlsdXZucjdOUHAycUlYOEFRZUViZVc3cmE5dWlZOTA0N0JvaUFOZTZxbFJTZDRyemJWRTdmaldXTE5pbHZrcjhHVUFuUUplUkk1VWJnZ25hMkVVNU9qamd6NS1VQTVsTmxXWU5zb09ZU0szNXphcFdMOW9Fdlo5N19UelRhdWZKMG10TXJHX3FvU0NzaURJVlBKdFpWUDRnbHY1Tk5wSnJFLWcydjNJYWpwUGNaN2l5azA3a0xCUVZFeDdLWE1SRW5hanZsa0t4bWtWaFZnMXZ1OWJBV3lyMA?oc=5",
        "date": "2026-09-28T12:29Z",
+       "right": false
+      },
+      {
+       "title": "Newsom signs new gun control laws, including one requiring owners to take a 4-hour class",
+       "source": "CalMatters",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rbnh5ckRRM01Ba3hNUkJBZUlQVWFaRXFtWDZscklsX3NJMS1ZVkZUX3NBbkkzQUI4RnE2bm9oUmQwajV3a3RxZUtJQ1RYdVJnZGQxdW1KdDZ0NU5aRnZadW9RNmRBTXdSaGVKOVBOQ1dHZTA?oc=5",
+       "date": "2026-09-27T23:55Z",
        "right": false
       },
       {
@@ -194,6 +201,13 @@
        "right": false
       },
       {
+       "title": "ICE Barbie Teams Up With Notorious Goon to Drop Cryptic 2028 Hint",
+       "source": "Yahoo News Singapore",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iSWRUcDV6SWRrblJZU1JoVldPdG9oWWoydVJBM3F6WHROREdTWTI0bXRrOEtlNFFPRy03UDQxb1BqUUo0Zng5MXg1c1NuMmxUSWNqNjRvWDNOdW9HU2V0eFRLUFNZWlhxT19tR0lZTkNYNmZDVTdscUZNb04?oc=5",
+       "date": "2026-09-27T12:06Z",
+       "right": false
+      },
+      {
        "title": "Rove: Dems ‘Are Not Stupid’ to Run Gavin Newsom or J.B. Pritzker for President in 2028, They Won’t Nominate a Gov. Of a Failed State",
        "source": "t.co",
        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5hbnV2bW1PWVNINVZpSC1FeHVUZFVBRFNVRy1JeThZWHRmVGYtWmRuckdRSnliLWY0dk5n?oc=5",
@@ -202,7 +216,7 @@
       },
       {
        "title": "The AI debate is already shaping the 2028 election. Here’s where Democratic hopefuls stand",
-       "source": "The Guardian",
+       "source": "theguardian.com",
        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnBuU3Rac3RLZXdjUXhGYUh4VTFISVdZOS1NU0xHV3lldXFGQjhFa3Y2OHpEMmFBT0Joek1UNm8xenM0QTJSSlpsaTdWb2Z0LUtnY05qSEg0anNJVXoxd1NmWkpnRl9XU1ZaNG9TRk80N205WEljY01UTXVUUEgyQXB3d2NYNDV0TldheFV6cmpZZ0RoTEN0d1U4WmFWNUp3OXc?oc=5",
        "date": "2026-09-26T11:02Z",
        "right": false
@@ -227,20 +241,6 @@
        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXZIT0Z3NXdZN2k0ZzliT0dDZUF4VVFvY01JOTRPYnZzOEFqVlZjaHpfV0FqQlhzUTRrYmhNbXRRUVhTdjlUTXlUWDJGdzFvWVJPc1FvMkZkeTBLX3cxTUJ4ZnZnRmpNbEN3RFUyd0swOXAyU0JMN0ZXajJRVm16amMyeXJMTWNPbGZQSjI4eHRKRklRMTlFaGF3UnJsUW5qaGF2bzJFNGpXZnNrOUt2dGlna3pXZVhPRnpZZllEN0hnZw?oc=5",
        "date": "2026-09-25T17:36Z",
        "right": false
-      },
-      {
-       "title": "Newsom vetoes California abortion bill amid 2028 speculation",
-       "source": "Christian Post",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXBuaFdJWk5reXNHN2wyNml3RVFTNkZsMi1lQWE4LUhNYlBjTVZySzVwYkhSa2VWNEV0Zlc5UVlqTUF5MTBRc21tNGlPVXowNlV3Z05PWGNnNUtKQ19SbVdybUZueWp4Z3dGcWpNZ19rZDJ0V2RMWl9tSFVXcXdXY0JxVXR0bV9CVE51eU92ZFJmT0lVVy1qbm1hU29Ya045bXc?oc=5",
-       "date": "2026-09-25T16:00Z",
-       "right": false
-      },
-      {
-       "title": "New Report Casts Doubt on Potential Kamala Harris 2028 Presidential Run as She Debuts ‘Fake and Affected’ Accent",
-       "source": "Megyn Kelly – The Devil May Care",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWxvMEFkdDkteFVXUjlwbVpvZUpTMmRFckI2VF9GUGQ3d3FXME9rUGk5Njg1ZUxuSTN4N1NfUDRQV2N2ckdZdllZb0hUaWV0VEZmT0Itd1N0VHN1ZzRJM1dDb3FtUVdocV9RRThMN3dpd0xveEx0OHhLXzRJVVBWank4d2JkMXRJMHdzY2tTWExxVlF0TW1pR3YzMS1POFNPbDNYaHQtcFo1OE5udzB4MkdoWQ?oc=5",
-       "date": "2026-09-25T15:18Z",
-       "right": false
       }
      ],
      "va_30d": 0,
@@ -252,11 +252,11 @@
      "name": "Alexandria Ocasio-Cortez",
      "status": "Interested",
      "bio": "Alexandria Ocasio-Cortez has served as the representative of New York's 14th congressional district since 2019.",
-     "poll_avg": 9.3,
+     "poll_avg": 9.2,
      "declined": false,
-     "mentions_7d": 48,
+     "mentions_7d": 49,
      "right_7d": 10,
-     "right_pct": 21,
+     "right_pct": 20,
      "at_cap": false,
      "headlines": [
       {
@@ -289,9 +289,16 @@
       },
       {
        "title": "Democrats Are Suddenly Shunning AOC, Report Says. Here’s Why.",
-       "source": "Yahoo",
+       "source": "malaysia.news.yahoo.com",
        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWQ3V0pHemlpSTJIaFRkQWMxU1ZhVzZNTTItaENYRUo2Z1Rid0U2LWdRX3ZkRXprWTk5QldsYkozbE5NRW44Tl9BQlRueXR6bkRGalg5OVFia0hTaWo5VEtNWFJMWVIzRVhVbWJ6Z2ZLcXI1eW00VXhKeThhWjd1VU9kdkZpSnN3UDhoRmh3?oc=5",
        "date": "2026-09-28T12:45Z",
+       "right": false
+      },
+      {
+       "title": "The clues of a possible future run inside Alexandria Ocasio-Cortez’s tour of New York State",
+       "source": "CNN",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUFjbTdnWElQLTFLRnNpV3lKNmlIanE2cUFiQVJMMTFxWGdJbzY0THc1M1Jab0FzQzRLSGFzSG9WdzRpNUkxTEJWUGhSS3AxdHlkODQwOWhMYjFteVR5VzM5c01mUVdPMF9wMjV2RVp3Y3kwVWdoWVVhQk5qQmo4RjhHMzhiejkzUHNuLTc5LV81cms?oc=5",
+       "date": "2026-09-28T11:00Z",
        "right": false
       },
       {
@@ -356,13 +363,6 @@
        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSV9YYURST3ZIV0F4UGJhUkx4cEtVRDJtWS1RLW9yMzh3b1ZwQmJhWG42alFKYktUWEhnYWw5bEpUd2g2X0tTNW1MSjF1NjMxNkFmOVJxVzU2S3ljaTZQdEtza3Bxa1BLZm5XU0lvYnZiY005aTQwNlJHdnpPYnktT05kQzN2VVNFNVRnbWhEYmFlRHI4STAyZVUzSE5pZ2RjcHhoWE1qSDB5WHhuTXZvQ3RUcF9qQVhXWU5YblBDNkZuUQ?oc=5",
        "date": "2026-09-25T15:00Z",
        "right": false
-      },
-      {
-       "title": "AOC testing the waters for possible 2028 run as she launches upstate NY tour before midterm elections",
-       "source": "New York Post",
-       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNExuWnNxWnRmVnk3S1pYSWI4NWk2Zmk5Vkt3UFJ2TmF5RFloM2RGblNxeV8tTEsySlEtVnY3LWV3dVoyaWdBYTJlNk1PR3hfMjd5VkMxdEdBTnRvM0dfS3I5Y09EeUVNcUc2eHVGUHl2TEY4dnYwckxsUUFLczM4d1d0U1lKd1JSeUI0TU5Va0EteW45RDdGSW93cnRPT2NkZ1h3dTJuTlBkNWFjQk9JSUE2dEtfU3lVN3ZhYzI2bHRIVE81LXV3YWNra2doZFdhVi1ydnhBSQ?oc=5",
-       "date": "2026-09-25T01:57Z",
-       "right": true
       }
      ],
      "va_30d": 2,
@@ -389,19 +389,19 @@
      "name": "Pete Buttigieg",
      "status": "Interested",
      "bio": "Pete Buttigieg served as the United States secretary of transportation from 2021 to 2025.",
-     "poll_avg": 11.7,
+     "poll_avg": 11.6,
      "declined": false,
      "mentions_7d": 26,
-     "right_7d": 7,
-     "right_pct": 27,
+     "right_7d": 8,
+     "right_pct": 31,
      "at_cap": false,
      "headlines": [
       {
-       "title": "2 top Dems spark 2028 ticket talk at joint appearance: ‘We make a pretty good team’",
-       "source": "SILive.com",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVhSS0dxV21qLTk4bWZfZG9sckYwRnVTYk8xeVVGNzBJZ0lDQ0JVWHE1VHNWZkZmT1RIdzNOWDc4c1d1R2FsVm5YS0Y1VE9QZDBwaXFqSy00VjZ6M3dwWUJkak93NkZhZFdOOFBNVEtkRGRwQ2pCVVJNb1JTYjNKTGhMbm51U3N5ZjFzSDlibjJsWDhsX2NUanQtZjRDbjZlaE1TbHl4ZkIyVS10ekpCZi1jMlp0OGtFb2ZQQXZGUTVTVzQ?oc=5",
-       "date": "2026-09-28T21:02Z",
-       "right": false
+       "title": "AOC gets cold shoulder from moderate Dems in tough races: ‘It’s about winning’",
+       "source": "New York Post",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTNIN1ZrNUxlMnJmeVFTYWpqYWlqbklyVVl1NUVYX25qZHJWdVJHNVBKOWxPTjNjR1FfQVdnUmZsaXhiRjQ2bVV6bm1ER2FWWnRtZWVpUFZ5M0ZWbEhBUTRSSGJqMW9FcVpJdDB0YzEzMXJ0OUJQdnhCNlk3WEVHclF4QVhtMU50clZVTzJ4Nm5fcmhSbjNNMU12elZYX1lVWGNNaXZaQUJLTVljcUd0cUZGQQ?oc=5",
+       "date": "2026-09-28T21:08Z",
+       "right": true
       },
       {
        "title": "Buttigieg to Democrats: Make midterm landslide ‘too big to rig’",
@@ -419,14 +419,14 @@
       },
       {
        "title": "Democrats keep coming to South Carolina to stump for midterm candidates. It's all about 2028",
-       "source": "bozemandailychronicle.com",
-       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNY0NSY2hGNzlTakxXdFJyVmtoM2toVlJ0ckFkZ0tXdWFUTmctQTBINGxRLTRMbDhtMUl3RldHcHlEcDZ5MXlsdXZucjdOUHAycUlYOEFRZUViZVc3cmE5dWlZOTA0N0JvaUFOZTZxbFJTZDRyemJWRTdmaldXTE5pbHZrcjhHVUFuUUplUkk1VWJnZ25hMkVVNU9qamd6NS1VQTVsTmxXWU5zb09ZU0szNXphcFdMOW9Fdlo5N19UelRhdWZKMG10TXJHX3FvU0NzaURJVlBKdFpWUDRnbHY1Tk5wSnJFLWcydjNJYWpwUGNaN2l5azA3a0xCUVZFeDdLWE1SRW5hanZsa0t4bWtWaFZnMXZ1OWJBV3lyMA?oc=5",
+       "source": "News4JAX",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbzd6Y1NwUUl5WVJoSnlMc3BYRjAxUV94MzRrQ1otdWNhSkIyOUJvT0xweDJXYVRveFl4a2M5b01GbkhDS2tDRjdlU0gyOGpBajFXU3ZBanp4U0toSEJrWFlDQ1NFd3dTTWhIUFREQUxHckdBUDR4dVU5RkJYbGlDOERxZWdSeDB2aG10MDExeDlTWnhYaW5hWEJNVHVjekNZVzhiSlllZVVsV1Z1WU1kWW1rN3pSY1ZnMzc4dEJwamJLZ1kyT0lNMFMzd3hNZjVhSWo2d1lkc00?oc=5",
        "date": "2026-09-28T12:29Z",
        "right": false
       },
       {
        "title": "Democratic duo fuel 2028 ticket speculation as pair trade winks about White House campaign",
-       "source": "dailymail.com",
+       "source": "Daily Mail",
        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWtieHpERENyUDE5S2hkTWRrenJuSmVrbjRFejRGT2prWS1HQ2c1VG12Nm5ydHBVZlpUZ0o2b29UcmRJbkRtdHJGZHZob241aXo3cGpiTllQZW1UZTM5RThmeFZ0UjBnRUZqc1ZJMlFLcm96cHhScUVZN3JoemFYeWZnVVFvcFZaN0I2Y0lkeE1yT05YUDhSbHNNVVTSAaIBQVVfeXFMTnotT1lOaUlfVThHM2xPaFBtSXJ1blBSVWEzdDFRMkZhdi16ZTYzQXB6Zk85cVFDTVIzX2s0SEVpc0RKc2ZzMEI0dWhMb1JfTE85QUt2VllDS0FYWGhvV2RfTkhOUUZSR1VqODlRZGcxUVRhd3prckJwVDk1cHR6aXpQM2llM1JLSGpkNEgycHRjaGFlN0pVeFk4TWlTT2UyVXdR?oc=5",
        "date": "2026-09-27T12:01Z",
        "right": true
@@ -440,7 +440,7 @@
       },
       {
        "title": "The AI debate is already shaping the 2028 election. Here’s where Democratic hopefuls stand",
-       "source": "The Guardian",
+       "source": "theguardian.com",
        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnBuU3Rac3RLZXdjUXhGYUh4VTFISVdZOS1NU0xHV3lldXFGQjhFa3Y2OHpEMmFBT0Joek1UNm8xenM0QTJSSlpsaTdWb2Z0LUtnY05qSEg0anNJVXoxd1NmWkpnRl9XU1ZaNG9TRk80N205WEljY01UTXVUUEgyQXB3d2NYNDV0TldheFV6cmpZZ0RoTEN0d1U4WmFWNUp3OXc?oc=5",
        "date": "2026-09-26T11:02Z",
        "right": false
@@ -534,14 +534,14 @@
       },
       {
        "title": "Democrats keep coming to South Carolina to stump for midterm candidates. It's all about 2028",
-       "source": "apnews.com",
+       "source": "AP News",
        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEFkb1dVZmt5NHE2NEhDMThjbHN1TlNaX2paaDBTSGZ3aHhHX01ZbnFDYk9BZl9qeWJLbnNXcllTVmxNUGR1Y3ZxN01jaVZVMkYweWZhX2NfMS1LRGljbWRZS2pZU0k4ZklwVHRlSWo5ZjF2cUdnNUJUb0pQX3ZWd2h2ODQ1Z3ZTazdORTlRUTYzaW5uSEN0VTJ1eUwyUXNQQ0JFSWx3?oc=5",
        "date": "2026-09-28T12:29Z",
        "right": false
       },
       {
        "title": "Gov. Beshear hints at possible presidential run during Louisville Sunday school visit",
-       "source": "WKYT",
+       "source": "wkyt.com",
        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUtUd0xfTTVMNkZ3dmk3dHM1M1pueGkzdFlpWEZUdXh6OFNBeXZuWjE3UVJ5QndtTm9uSVEyV0tVVGdvMktpY09ZQjNpMXZJX3RVU3N0bkdScXJhemJpYzNjd3kzV1luZnZhVmJoenh6bGktY2R6ZU4xZVhFWjdvaHkweGN5ZkgwdGRKdHA2M1JvNEk0eWxrUW1XUFF5OGRYU213Z2Z4Nng3dVpxSG1QOWo2S3XSAcgBQVVfeXFMTk9WczEzMDZOQ1EybVFudjlhQWxMQmZEbWZBTFZxNTAtaV9aVlB2dF9GMEZ2QmpJUVNvM2h0Y0tWMm82bkFhNUdGTElqTEtwMGthX3lkY1ZKVzZDcXJPQ2lKYUlSYkFYQ1JqRzI0OUhFbXpXeTJmdmVVZE5scDYyM2JlTnFaVlFRWFFiU01CclV5Szlqd0llcm1yWnZJWFhHV3JFeGZuRVBhUmJfMGtsaFp1Q0pPdXFaYi1CRnlad0cxUEFkT1ZoVms?oc=5",
        "date": "2026-09-27T13:01Z",
        "right": false
@@ -555,9 +555,9 @@
       },
       {
        "title": "Andy Beshear talks faith and a possible 2028 run for president",
-       "source": "Seacoastonline.com",
-       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWh2dWUxbFA5b0dPdUtaZDd2cnI2cDJJaTg4aHZMV0FobUhCWlJUdUF6MW9XZEE1eVd2dGw3UzFQQkJ4RDJfVmI5MWgzV1NHSEo5NmhXbHk4UVk4X2NUVnhqVklDU1hRZzdzTjdzck1vOTZWZVR6UkdfU1lXTlBmcGhWQmZkVkVzaXFlMnFQUnR4ZjdwOXVVVG45SVNwbzVoSGJScTBBZ2taV3hsZTJBQ2plQ2hFTnk3WkQwM2Zta1NBY3RKN1NCb0dKcmp2cExQaGQtYnVzZ1E?oc=5",
-       "date": "2026-09-25T20:05Z",
+       "source": "MetroWest Daily News",
+       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNenRSNlBOZkp4eXNBR0lYUWFVX1lKSHFpWl8yMHB0UnNYWFVrTy1vZm1DREtjVUh5VW1jV2lWZV9ubFl3MkR0TUkxSVhBQ2d6ZnBkRFFmdjJSUERyVld6a3FrTnJFWkxjRUlUSEhTcGZEUHU2TW85d0JTNHBwajhnTzVnUjFvQ0FtUFVQNEtRV1JEcUFMakJWa3lhY1lUQm9KakxDYmZqa1hNRFNHcHR2ZXVqMkFsUFY3SWhjMzllU2s0SEEtZWtXWUFfc05UZWFCQjRaRUFScDV3UUpZWmc?oc=5",
+       "date": "2026-09-25T14:41Z",
        "right": false
       },
       {
@@ -611,16 +611,16 @@
       },
       {
        "title": "The wink-and-nod primary is on",
-       "source": "politico.com",
+       "source": "Politico",
        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWZ4MXBwUklVUGF2ek51WEk4NUY0aW9KY25FNkZaSVctcnhLRmUzeVFNQll2MC15ODZ2dnVUaXFBNWhfV1lMZVJQaHpqX1dZQWFBSFJldW9LM3BrS0xCUkFiR3ZmYVdPQ3hET0UzV3ZkaVcteXhXRGVQc3d2UnJYZnQ0ZXlCcTBBaXM1aGVaTFFfX05zVEJjUUlrZXJiQmU4?oc=5",
        "date": "2026-09-23T18:19Z",
        "right": false
       },
       {
-       "title": "Will Governor Andy Beshear run for president? Here’s the latest.",
-       "source": "yahoo.com",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnJ1X0xRb0JmYkt4RDBwaWNvOFpsbDBKZTB4R3F4ZnlQOVBJTms5OUlobThGMWFDcm00YnFUMnh3YkFxNk9xSGtrLThSTEFENUppREwtdnkwMjFoYVkydllqanVLUkdsWEotdTJ5XzNOeTAweU43M1NneTF1V1hZbS1aVGwzX212d2poVA?oc=5",
-       "date": "2026-09-23T13:25Z",
+       "title": "'Go and Do Likewise': Beshear’s book touts Christian values (except when it comes to Bevin)",
+       "source": "Kentucky Lantern",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDlBVHJfYnh0d2NUeDNOa3NnN19OMkl4Tk05c2ppVUg5MEQyOXlrbFg2dHp3eHY5Q3NGS3A3SGdRYlR4X1lQWmtaZk5iQU83d3c0VmlUNlkzZTVialF1N3Nqcmtrby1kSkNkZXBXNDA2MGNIOU5EeHZ2ZFhGRGtVV0xFYkRoUVduSnQ4bFNMQy1WaG91WTdGa0JiVVVQSGdjUTBqQWZzaFUzNXN5U3NLWUg0Ny0wS1R3TUJxZWRINFJtbkk?oc=5",
+       "date": "2026-09-23T17:01Z",
        "right": false
       }
      ],
@@ -649,14 +649,14 @@
       },
       {
        "title": "Does Mitch Have the Presidential Itch?",
-       "source": "New Orleans Magazine",
+       "source": "myneworleans.com",
        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zWkN5bk0yUkVGSVJQcmgxY09UclJMbVVhZDJpWm1xMGFlVFN5b1otcEJmUC12SFBqNk11M09USTcyUVJNLTBPNGhDT0otQTl4QkR5UzhjV0tnZWFfVGY1ZUZ5SUY4Ymswa2JDQ1p4YnphZU85RHc?oc=5",
        "date": "2026-09-28T14:04Z",
        "right": false
       },
       {
        "title": "SADOW: Landrieu Next Louisiana Vanity Presidential Aspirant",
-       "source": "The Hayride",
+       "source": "thehayride.com",
        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDF0V0JHYlpLX1prZEJYZEtadXBSaGZMYlJWTVpUT2NrbHpvclBqcnNJYU5qODl3MVd5Wk5VT3hjMzhKYmozTFJ3MmxkZTU3LXlCb1oyNVRzM0ZCZ0ZzTlYteEtINmhFT0RfaTUxNUhYU0tfTlRnanA3eVRSd3NhWDBtVklvWDExTzlqcGJobERkY1Vf?oc=5",
        "date": "2026-09-28T12:07Z",
        "right": false
@@ -670,8 +670,8 @@
       },
       {
        "title": "Mitch Landrieu considering 2028 presidential run",
-       "source": "yahoo.com",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWZ3TE1jcmdiREJXWGJhdU9HbnNGU2o2d2lxSUd0cFZxdktLQjgwYjJMbURGSG5VS2YyTWRiSk9mdkZCeDlQa1BJWlM1NjU4ZlRnVE9NUVdlUmFxWElyOUpCSFBUeFVDRC1EdTRDUFBqaEs5cDNVSE1fZk53eWZJMXU1ZUl5N0tzUzJkNUFjektCa0JoZms4eA?oc=5",
+       "source": "WWLTV.com",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmdkanpHWXBzMkktYkpnODhlYXhSYkgzZVVuSjcyV3U2cFRhRW9XUGZPNzdNVkMtRXhFN1p6eUlfWkZ3QlhSRmxpc0VYbnBmSTVnSHgtaGdaOVZuTndrOHlCMUJfZUw3UHRGaTRZMEVzSkhOT3Vfbnp6dURqZVVMZlNBNFFHR2Z6Rm5obDN6MVFKM2R3YkZybzM5YTRQcU1RckxLamxEaklhdnBqNEZmcWU4U01DU0EzTTB5ajdYSWJpNUM4dTJTYVBKWXBQeEllb0lBMXBmcFptY1E?oc=5",
        "date": "2026-09-24T23:07Z",
        "right": false
       },
@@ -755,13 +755,20 @@
      "name": "Josh Shapiro",
      "status": "Speculated",
      "bio": "Josh Shapiro has served as the 48th governor of Pennsylvania since 2023.",
-     "poll_avg": 6.1,
+     "poll_avg": 6.2,
      "declined": false,
      "mentions_7d": 15,
      "right_7d": 1,
      "right_pct": 7,
      "at_cap": false,
      "headlines": [
+      {
+       "title": "Josh Shapiro seeks 2nd term as Pa. governor with possible White House bid on horizon",
+       "source": "TribLIVE.com",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXlUcG1YNTFrd3prNDJ2VGtHb0NOcTVMT2tXR2xHSnc3UjIydndqTXNaRUhuejNvM1dNVWx6QTVUWWM1bnI1bFVDUElvUnlyM2h3ellhTm8xanltakQ0SVZFX1NUVW1PQ09SXzNyUmpyQ19MOEgyOXFaMUlkNV9ZUEJVYWpBXzNZZWwtLXk3RzdwOXo4dzdBZ20zRGpmcWdSUGswUEwzSzdoNjdXMk52emRzeUNsTEFhc2NqeTMyMEk?oc=5",
+       "date": "2026-09-29T05:20Z",
+       "right": false
+      },
       {
        "title": "Election 2028: Democrats’ Best Chance Is Josh Shapiro",
        "source": "americanthinker.com",
@@ -806,7 +813,7 @@
       },
       {
        "title": "2028 US Presidential Election Odds: Dems Lead, GOP Slips",
-       "source": "Covers.com",
+       "source": "covers.com",
        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0ybk1PUUZoX3BSOXltYXp4Q2swTXZSSkZGcTVoM2pnbkpwMW9vOHNjN1BWdHpYZWttaHdyT2xwUmhOb3B6dFRYSUNyWFczTjgyRk10Qk9lQlN4MEFscTdtX3l6MmlDdE0?oc=5",
        "date": "2026-09-25T17:35Z",
        "right": false
@@ -859,13 +866,6 @@
        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekVDNTFaWFdqN3cybjF6RTlqWXhUMHZUb3hJa0hKSFQ2enJmNE9WRS1rUHR0Y0NYYW5UZG1LbWpHQURzX09XLUFsd3NDMXlvZzNMeEpfUUxjMDVYY1dtOTYwdV9mSDlsZDExb3VJX3hfemxlei14dG1kd2pmVjItUjFTQQ?oc=5",
        "date": "2026-09-22T13:40Z",
        "right": false
-      },
-      {
-       "title": "How Josh Shapiro changed his tune on data centers",
-       "source": "NBC News",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVVdOVmFua3VHYW1JdE5DRHVxekNTQVlPYkpZdUN6MkRnVVh4cnEzMFF3UjB2ZG5ZbF9wVTg3QkpMbVFXd200amRfcmdhcmxvNWhNQmdQaTZzSndqQ1k1TVBlNHprb0RBMDlFOGszTkpyRG1OX0RrZlFlbDFTTm1HMk5OYklKQmFvaVNkdEtidFZXQll5dmxXWnd4ZEE?oc=5",
-       "date": "2026-09-22T09:00Z",
-       "right": false
       }
      ],
      "va_30d": 0,
@@ -893,7 +893,7 @@
       },
       {
        "title": "Democrats keep coming to South Carolina to stump for midterm candidates. It's all about 2028",
-       "source": "apnews.com",
+       "source": "AP News",
        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEFkb1dVZmt5NHE2NEhDMThjbHN1TlNaX2paaDBTSGZ3aHhHX01ZbnFDYk9BZl9qeWJLbnNXcllTVmxNUGR1Y3ZxN01jaVZVMkYweWZhX2NfMS1LRGljbWRZS2pZU0k4ZklwVHRlSWo5ZjF2cUdnNUJUb0pQX3ZWd2h2ODQ1Z3ZTazdORTlRUTYzaW5uSEN0VTJ1eUwyUXNQQ0JFSWx3?oc=5",
        "date": "2026-09-28T12:29Z",
        "right": false
@@ -922,7 +922,7 @@
       {
        "title": "Indian-American Ro Khanna keeps 2028 US presidential bid open: ‘It’s a family decision’",
        "source": "Mathrubhumi English",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUlXQUN6enRaMUhBUHdoZmhYYTZHRUFYaGg4UXJoVi10UV9EYUQwNDhWX1gxUVJMYUJiQ0VrMlUxMEdYaUFjbVdXWndCWjN2VWRPb1pzNnhfSlJPa2dXQ05UVXdWak15ckJKUUlHVGJ0RUZpYXdpU25OZjZNUXFPUGJYRjdIWE5yRDVaTW1KYURqV0FyWjRDLTU2UUk3Zjh2R3RIcDQ3UmtWd1JHVDl2ZXpySDLSAboBQVVfeXFMT1c5ODg5bDM2ODJzT0pCMENoT1RwTjVpYjdmM0hHS3NXYnFKaUMwS3BtTVA4TTRkWEJmWTgzTHRLX2xkbUw5a0VUQTYyclUzRUo3Q1Z1WGVmVmd5dGtSY1U1TzcxMS1Td1oyYnRnM3M2TV9TSVBFU0poSTdhOGlzM2J4aDZrSWFCQ25ud2ctVmJmbUpHLXJ1XzRqRUxqZkZza0wxa2lic1BtbnJIci1ubmVFNGgxVUYxcWxR?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzk4ODlsMzY4MnNPSkIwQ2hPVHBONWliN2YzSEdLc1dicUppQzBLcG1NUDhNNGRYQmZZODNMdEtfbGRtTDlrRVRBNjJyVTNFSjdDVnVYZWZWZ3l0a1JjVTVPNzExLVN3WjJidGczczZNX1NJUEVTSmhJN2E4aXMzYnhoNmtJYUJDbm53Zy1WYmZtSkctcnVfNGpFTGpmRnNrTDFraWJzUG1uckhyLW5uZUU0aDFVRjFxbFHSAboBQVVfeXFMT1c5ODg5bDM2ODJzT0pCMENoT1RwTjVpYjdmM0hHS3NXYnFKaUMwS3BtTVA4TTRkWEJmWTgzTHRLX2xkbUw5a0VUQTYyclUzRUo3Q1Z1WGVmVmd5dGtSY1U1TzcxMS1Td1oyYnRnM3M2TV9TSVBFU0poSTdhOGlzM2J4aDZrSWFCQ25ud2ctVmJmbUpHLXJ1XzRqRUxqZkZza0wxa2lic1BtbnJIci1ubmVFNGgxVUYxcWxR?oc=5",
        "date": "2026-09-27T02:20Z",
        "right": false
       },
@@ -935,7 +935,7 @@
       },
       {
        "title": "Rep. Ro Khanna unveils universal childcare proposal with eye on 2028",
-       "source": "abcnews.com",
+       "source": "ABC News - Breaking News, Latest News and Videos",
        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXBIU092anRsYUwya2MxdUU5aGctOUpqTWdaUzlUTlc5WGx1RWYtQUs5Sng5VlhKV1gyeWNpUUhPd29kcmtCNWo0QWFRckZlcG9zbHBxU1dORElrMG05NUEzWXo3YVd2aGN6X2hxcndqWlBjNkFtUkxsNkdZa2JDd1prb3hhYlB0aTNhOW5aMnk3dWk3MDBZa0VfTlNLVVJkY0I3ddIBqgFBVV95cUxPWmZESS05LWlLei1lakNZYnlyaWtTakxWTXY2eFhvVUdFQ01ycks5LVNmTGdaWnlaTDVIR1JMdUVRZlMzODF5X2VhWFhKVUZHTmVILVhwU1pvakRPSlJ6ZVZZU29IVl9PZ3FQRnVqakQtYWdfR093dExQTjBua2xpaGx5aFJPaVFhQTFPSWRMSGxtZkpaMUpnOG9jNFZXY0wydEYtU09VY1BqZw?oc=5",
        "date": "2026-09-25T09:07Z",
        "right": false
@@ -989,7 +989,14 @@
        "title": "Sen. Van Hollen (D-MD) Holds Forum on Pres. Trump's Immigration Policy",
        "source": "C-SPAN",
        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1lKUGJPZVJMTUVIMXc0VzZjYzVXWUhSZzZ0M3drTERJdXNMUVdWNkRVYnZTejZFTTRJZEY3UGxIZVEyUzA5N1N6bE5rd001U0Zwa0lwSkg0bHNZbWRlQktoMUFXZl80T2l6X05VaE9LQTNna05VcjVNUlY5NV9WTUtQV28zcVVvZ3hUSTNFRVAzN3RaTFJ3MXJITDBUdkhfM1RwUDNaM1M4X0lBTEJsV2NjWXJhWm8wXzlIdjFTbw?oc=5",
-       "date": "2026-09-28T22:25Z",
+       "date": "2026-09-29T08:30Z",
+       "right": false
+      },
+      {
+       "title": "Senate Blocks Merkley, Murkowski Bill to Prevent Trump Tearing Down Presidential Memorials",
+       "source": "Merkley (.gov)",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjNicGpmX2VDNTRYMWR0VGRHSzVLSkhtellMd2w5OTFEaEJuSEgtZDlVb3pEenVkOXhrSm1lSXhKZjB1TVR0dXBzcHI4YzI4VmNiRzFTZkdTLTBuaG1xWmVWWWRlNVpuLW1qQWlucEg4ejNjcW5zcHRrM3oyd1FMMG1wZk9neU9JSTNtOGhaalowZS1TQ0JPM2U0akNEZUQ3ZFRrUnlTcFM5YnhRdFRYelptRmJienBaZzIxRTFB?oc=5",
+       "date": "2026-09-29T06:22Z",
        "right": false
       },
       {
@@ -1047,13 +1054,6 @@
        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjBSVUhNZzExZ0UtM0NGX2JPZEVHNGpoQVFTWFVsUC1OQnJxOTdhaC0xSUdwU09KZjA3QjhSTFdxaEM5QVY1RjlGcHdWSGZKUkktOXloVkg3RmY0T05La3JYV2dSMkFiNnRmM1VkeTVFY3QydW8tLXZCYUhpdW9Hdk9RU29OYW1kOE5pakhWSnBVLWRNZF9kRHpuOWw2T2c5ZlZfRGFJa1BIZnlZNF9fVFRCR3MzQ21GblBfX29zTWpKRHlJNV9aandBbEhySzFNQWlNc1VrM1dkampBdXJMRA?oc=5",
        "date": "2026-09-22T16:15Z",
        "right": false
-      },
-      {
-       "title": "Former Vice President Kamala Harris Participates in Fireside Chat in Detroit",
-       "source": "C-SPAN",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVJsanZROHk5NkxNdG5yMGNpYXNyc0UwZ1E0WnV2aXh3aVdORGtvRllKQkJNMEVYeTdjT1RnZzE2NXdGZUZfZjhPd2RLZVFYa2VSVjJndmljWVVBMndueWsyX3VESEJNUGdNN2JRRnB1QzlaSFlCMV9sMmljTlpOOTd4T0NKUGN6YUNXZVpWQWFmc0hxZGdMRnExaUpucXYxUk44NENza2pyVFlncnc0TW1WRzVYdGxHSU9kMnhlMFZCRGJVSjFR?oc=5",
-       "date": "2026-09-22T04:00Z",
-       "right": false
       }
      ],
      "va_30d": 0,
@@ -1068,15 +1068,15 @@
      "poll_avg": null,
      "declined": false,
      "mentions_7d": 8,
-     "right_7d": 2,
-     "right_pct": 25,
+     "right_7d": 1,
+     "right_pct": 12,
      "at_cap": false,
      "headlines": [
       {
        "title": "Democrats keep coming to South Carolina to stump for midterm candidates. It’s all about 2028",
-       "source": "Hartford Courant",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSllfa0xidVdHbE9fX19TX3o3YTBXNTVCLXZWUzZnVmdJSFI4Q2ZzVlB1VWxuc0RBNUs5V1llUDJfcjFhakhkR3BZZ0trb2pKWGVRSjZFaXlWYkk4b1RWZTdEcTU3bVI4VkhaMndZUUxSX0xIRU53ajQzSXdJbFJBb0RPMThNbC1sZFJZ?oc=5",
-       "date": "2026-09-28T15:49Z",
+       "source": "Daily Press",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVNwLVlSYmhhM3Y2UUhEM3ZpdTNOaVdWZ3hzdVFvTk5jejExdDB3azg5SS1YRHBuX2VDdlNfbXNYMGJwZ2tUZ041bnZPenpzdGVTN1pCa2RINUNlTDA1UmJxaHRGWlk3Uzd0SVJuT2tfZ0hGVFNyN1JtRFhvTk9HbXhsVHBRRU5FTU1ybzhCSQ?oc=5",
+       "date": "2026-09-28T15:48Z",
        "right": false
       },
       {
@@ -1088,14 +1088,14 @@
       },
       {
        "title": "Robert Reich: The Rahm Bomb – OpEd",
-       "source": "eurasiareview.com",
+       "source": "Eurasia Review",
        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NT0ItYmgtOXY0MkxBQ2FZTWNaa0tXbDM2VEVxSjBsNldOR1l3ZmhTMkVRdlkyMGxseHVKTVN4QXBmNG5GN25KOERHb0pDRG5rSTRNU2xSaEtycGItUmNyR0ZNR1Z1amV6TUl4ZC16U2diTHA1STVkQlJHdw?oc=5",
        "date": "2026-09-27T22:55Z",
        "right": false
       },
       {
        "title": "Rahm Emanuel Makes His 2026 Play",
-       "source": "Political Wire",
+       "source": "politicalwire.com",
        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EN0VNN3RkVW1tejlpbnUwU0VCWDIxbWZlc2l3REQ4Sy1EdTNuY3VlTHp5ZXpPNm05Mllhd2FvaURzOTg2MWEwcHRBRExiZXd3cFlTcm41dXlUYUxJMEd3R01Zb0ZMeDZxa3RjT1A2ZGpHYUhPcWR5Nkpn?oc=5",
        "date": "2026-09-26T09:20Z",
        "right": false
@@ -1116,10 +1116,10 @@
       },
       {
        "title": "Rahm Emanuel on a potential 2028 bid for president",
-       "source": "Fox News",
-       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vZnNwV21wR3BpTFQ5MkRtLVdyRHBMTUQ4M0VUUklHZkMtcG0wcFZja190dWpaeHJDRzRudTQzcU5yMmlQVkJvemE4TzlodTg4dEVkeGpB?oc=5",
+       "source": "Yahoo",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnlVX1BCd0VROTk0cmFQMjd6cUVvZnY3b1ctV3BpdjM3TnpXdHRreGtPWGk0OHFCc3lISXFjc3B0anRGU0ZPV01rSFc1QUtON2FtVUhsZUZHSS1MQmJjYmF3bTR0MnZpakFYclRka1JZNS1HdFVpSXBRd2Y4SWZNR3F3UTJmcnM?oc=5",
        "date": "2026-09-25T11:21Z",
-       "right": true
+       "right": false
       },
       {
        "title": "Rahm Emanuel on Possible 2028 Run: \"Of Course, I'm Evaluating it\"",
@@ -1132,79 +1132,6 @@
      "va_30d": 0,
      "va_headlines": [],
      "rank": 10,
-     "delta_wk": null
-    },
-    {
-     "name": "Elissa Slotkin",
-     "status": "Interested",
-     "bio": "Elissa Slotkin has served as a U.S. senator from Michigan since 2025.",
-     "poll_avg": null,
-     "declined": false,
-     "mentions_7d": 8,
-     "right_7d": 0,
-     "right_pct": 0,
-     "at_cap": false,
-     "headlines": [
-      {
-       "title": "Michigan Election 2026: Key Races and Historical Presidential Election Results",
-       "source": "NBC News",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VWE96aXR0S3I2YjZPYWRXb21UM1lCZXoxbFdDenBTUzdjMmJHUjljRTdFc3hHQm9DTlBiSXIzRGg1c1U4N05MbHk0OFhtSVNpc2RNcWZhMzdpRldLWE5jYzd0cEZQRV8zR1d1VUtWWWlYQQ?oc=5",
-       "date": "2026-09-28T20:45Z",
-       "right": false
-      },
-      {
-       "title": "ID Bust: VW Delays The ID Buzz's U.S. Comeback To 2028 Model Year",
-       "source": "jalopnik.com",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWJaU2M1eGhqTGtlUGdyUnRKNTlVUjRja1JtLWNNcWJVT1Y5NWU5bUF0SlpQTWNpSGtmSlJMQ2s2aXkxclloNU5jTkRMLW8tUTF0NWRJVVNCWEtrQ083R0RsYk5KT3o3QmhIS0hyb2xucmhIX1g0eEZqUkliNGczT21SaFhuXzg?oc=5",
-       "date": "2026-09-25T14:16Z",
-       "right": false
-      },
-      {
-       "title": "Elissa Slotkin",
-       "source": "Britannica",
-       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VQmc0ZlJxRlpOaFFPUE5maVJsOFdxNHNIQ2VNUmd1amVTZWM2ZkNWZmNGdGVoNk1MMWhFZnFlcjNjbUdoRDJOdlhFYkdhRWVIaUE2QnliWWZtR0dTaUx2MA?oc=5",
-       "date": "2026-09-25T05:00Z",
-       "right": false
-      },
-      {
-       "title": "Michigan progressive ditches stance on Chinese autos before Xi visit",
-       "source": "Times West Virginian",
-       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdWpEMUllZGlXUVFaVllNUG4yRzJLM0NEaDZOcGlsN2llaVc2MjQzc1M3TEFuZjd1X2ZxVDdBY09VcG1HdXNreGxxOU5MX0pUaXV5TXNDT3JpQXdjZU9XLTdvdDdDQllCYUItdG5qdE40eEd2N1hQT0p6NnFvRGhJTzRSVjR4YVl2T0xvSE9UVUlzZG9VaVlOVnFob1BqeHdPSEhrZ0xiUVdCLUw5cVE1dEdfN0Z0b0lWdklVQUZDTzRfdWV2MVZUMGVuUWlvSDZIWnBNZEdPVEhFdEVWQ3R0NFRVT2tUaGpxb3FRZw?oc=5",
-       "date": "2026-09-24T10:56Z",
-       "right": false
-      },
-      {
-       "title": "Dem pastor eyeing upset in red state urges 2028 contender to stay away: ‘You would actually hurt me’",
-       "source": "AL.com",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTRYajNzMk8yQ0hxaFZCS1hmaFdMMmZQeml5eDJkRVBaMUxoYmlzV25FQ1k2ZS1UaTdtYUhOM0pwRTUzZWJoVnRBQkRteUNVZVE0OHJ2NzdXMUVVTGkwbkRGZVNLVmd0VUNTUXFPRWkwejZhbmdtb2c0dDYwWjVPbHNIZ2tjdThHTzMwbFlxX0JoT1ZRV0dpbjNKWmxiNzhHOGE4ZHNsQ244dWZNSzRyUXk1MHg2QzNLS0NJMWM3aDM1M2t0UllnY2wzb2t5aDAyTzM2bQ?oc=5",
-       "date": "2026-09-23T22:18Z",
-       "right": false
-      },
-      {
-       "title": "The wink-and-nod primary is on",
-       "source": "Politico",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWZ4MXBwUklVUGF2ek51WEk4NUY0aW9KY25FNkZaSVctcnhLRmUzeVFNQll2MC15ODZ2dnVUaXFBNWhfV1lMZVJQaHpqX1dZQWFBSFJldW9LM3BrS0xCUkFiR3ZmYVdPQ3hET0UzV3ZkaVcteXhXRGVQc3d2UnJYZnQ0ZXlCcTBBaXM1aGVaTFFfX05zVEJjUUlrZXJiQmU4?oc=5",
-       "date": "2026-09-23T18:19Z",
-       "right": false
-      },
-      {
-       "title": "Editorial | Idea Fest introduces presidential, vice presidential prospects",
-       "source": "The Cap Times",
-       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUDl4Q2p1LVV3ODdybnpOa3pMS1lmSFJUbXJ2SmhvX0dCWmJER0dtX0N0V3FWRTBzek5MZkMxREhkQ2k1VlY4U0tkb2Z4a3I1NXZsbzUxTUFFZE84WUR5ZGJFd0ZIcGFZTkVqVjFTa01VWkhBUmRIYy1mRm9iQXRSLUpDb3NBWUxBLTFCaDdTWVNKU3BQSnRwaXB2bkNkVDRPNTRfdDZTV2lBbE1kOW4tZk9GNnAzbXpwQ0lVUWlJc1BLMWVYZ294bmxOc0d5T0ZiVktqMXdHZ0dFYU8wR1REM1lfTFZ1MXBxZGwtQ09UbVFTbTQ?oc=5",
-       "date": "2026-09-23T10:00Z",
-       "right": false
-      },
-      {
-       "title": "Slotkin Van Hollen Khanna",
-       "source": "The Cap Times",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3ZxQmFBS0I1WXdpN0o5Ym5kbGxESEpFQ0w0RzFVc1pxc2pFTlBtSUFwejFINXNhd3FlQkdPUTRrTWdFcXl3V2ZoWnRMX1RvNVFHOGJqN2U5U19aQUtLTWRjZ1lUNTV2YndZRTlScERsR1FMdnRsZFNTN3FnNHlBTllvRjA0WFRZS0VnRl9tbVBlcXpPb0tHQU9B?oc=5",
-       "date": "2026-09-22T21:05Z",
-       "right": false
-      }
-     ],
-     "va_30d": 0,
-     "va_headlines": [],
-     "rank": 11,
      "delta_wk": null
     },
     {
@@ -1248,7 +1175,7 @@
       },
       {
        "title": "2028 US Presidential Election Odds: Dems Lead, GOP Slips",
-       "source": "Covers.com",
+       "source": "covers.com",
        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0ybk1PUUZoX3BSOXltYXp4Q2swTXZSSkZGcTVoM2pnbkpwMW9vOHNjN1BWdHpYZWttaHdyT2xwUmhOb3B6dFRYSUNyWFczTjgyRk10Qk9lQlN4MEFscTdtX3l6MmlDdE0?oc=5",
        "date": "2026-09-25T17:35Z",
        "right": false
@@ -1277,7 +1204,7 @@
      ],
      "va_30d": 0,
      "va_headlines": [],
-     "rank": 12,
+     "rank": 11,
      "delta_wk": null
     },
     {
@@ -1343,7 +1270,7 @@
      ],
      "va_30d": 0,
      "va_headlines": [],
-     "rank": 13,
+     "rank": 12,
      "delta_wk": null
     },
     {
@@ -1358,6 +1285,13 @@
      "at_cap": false,
      "headlines": [
       {
+       "title": "New Jersey Election 2026: Key Races and Historical Presidential Election Results",
+       "source": "NBC News",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GeXdnQ2xjSDlpSkNZNFBkSnF6b2NjeFFqU2s1alFZRlV0SGgtdzNEeXlVS294dzJOZC1FNlVseDFBUEktOEVpRk9OaS1welN6OHBkZ1lYblNQY1FjbkFCUmF2MGtlOEdGNERuTGVxN1ppaUxs?oc=5",
+       "date": "2026-09-28T20:45Z",
+       "right": false
+      },
+      {
        "title": "Predicting the presidential nominees... from their announcement speeches",
        "source": "Seth Masket | Substack",
        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MbmFjUTJJOUtUTFZkaEZEdEN6WDBGeWtxQ1ZnbXVCNV9kZ05pMzRrdlRob1VFcDNxWGpvYzVDWFE3OGdoelRfeWVGWkZoR3h1ZGVqYXBpT3gwMEhpdTM5YTVvMm1xamVWdkVhQ3p6QUlVZTRr?oc=5",
@@ -1366,8 +1300,8 @@
       },
       {
        "title": "Democrats keep coming to South Carolina to stump for midterm candidates. It's all about 2028",
-       "source": "bozemandailychronicle.com",
-       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNY0NSY2hGNzlTakxXdFJyVmtoM2toVlJ0ckFkZ0tXdWFUTmctQTBINGxRLTRMbDhtMUl3RldHcHlEcDZ5MXlsdXZucjdOUHAycUlYOEFRZUViZVc3cmE5dWlZOTA0N0JvaUFOZTZxbFJTZDRyemJWRTdmaldXTE5pbHZrcjhHVUFuUUplUkk1VWJnZ25hMkVVNU9qamd6NS1VQTVsTmxXWU5zb09ZU0szNXphcFdMOW9Fdlo5N19UelRhdWZKMG10TXJHX3FvU0NzaURJVlBKdFpWUDRnbHY1Tk5wSnJFLWcydjNJYWpwUGNaN2l5azA3a0xCUVZFeDdLWE1SRW5hanZsa0t4bWtWaFZnMXZ1OWJBV3lyMA?oc=5",
+       "source": "News4JAX",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbzd6Y1NwUUl5WVJoSnlMc3BYRjAxUV94MzRrQ1otdWNhSkIyOUJvT0xweDJXYVRveFl4a2M5b01GbkhDS2tDRjdlU0gyOGpBajFXU3ZBanp4U0toSEJrWFlDQ1NFd3dTTWhIUFREQUxHckdBUDR4dVU5RkJYbGlDOERxZWdSeDB2aG10MDExeDlTWnhYaW5hWEJNVHVjekNZVzhiSlllZVVsV1Z1WU1kWW1rN3pSY1ZnMzc4dEJwamJLZ1kyT0lNMFMzd3hNZjVhSWo2d1lkc00?oc=5",
        "date": "2026-09-28T12:29Z",
        "right": false
       },
@@ -1376,13 +1310,6 @@
        "source": "NJ.com",
        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjVjRWk1YUJ5QmRycGhYaGIxbWM2MlFBSk9tbkstTnNaejh0RDNHMGdOLWlNV3pqT3EyWUQweFhtYXZydU1qQ0lJZnRlZzRmU3JvYjdsTDVlMzNZNFRMVFFZQ2xXdnpPRnIxa0NSdU9DaUx5c2hzQV9OU2l6cndxV2s0ZlhmRzJpWnBFRTg5bUZpYVY4UUNOTmVKUG1EN3NpeXJj?oc=5",
        "date": "2026-09-28T11:17Z",
-       "right": false
-      },
-      {
-       "title": "New Jersey Election 2026: Key Races and Historical Presidential Election Results",
-       "source": "NBC News",
-       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GeXdnQ2xjSDlpSkNZNFBkSnF6b2NjeFFqU2s1alFZRlV0SGgtdzNEeXlVS294dzJOZC1FNlVseDFBUEktOEVpRk9OaS1welN6OHBkZ1lYblNQY1FjbkFCUmF2MGtlOEdGNERuTGVxN1ppaUxs?oc=5",
-       "date": "2026-09-25T15:30Z",
        "right": false
       },
       {
@@ -1409,13 +1336,13 @@
      ],
      "va_30d": 0,
      "va_headlines": [],
-     "rank": 14,
+     "rank": 13,
      "delta_wk": null
     },
     {
-     "name": "Raphael Warnock",
-     "status": "Speculated",
-     "bio": "Raphael Warnock has served as a U.S. senator from Georgia since 2021.",
+     "name": "Elissa Slotkin",
+     "status": "Interested",
+     "bio": "Elissa Slotkin has served as a U.S. senator from Michigan since 2025.",
      "poll_avg": null,
      "declined": false,
      "mentions_7d": 6,
@@ -1424,58 +1351,58 @@
      "at_cap": false,
      "headlines": [
       {
-       "title": "Georgia Election 2026: Key Races and Historical Presidential Election Results",
-       "source": "NBC News",
-       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVmdoeEEwNVJJOWJvVlVMaVg5aVRmRFFQZUdDYzF3bzJIaC11cURSNTY2VzRuUVgxSTZuVkdwNW9NTlE2M3k5QXVSZldRbU5XcWJqVWtueTFNNEszZHQ2dW5SSGh4NTA4WEpIRGlfWUM?oc=5",
-       "date": "2026-09-28T20:45Z",
+       "title": "ID Bust: VW Delays The ID Buzz's U.S. Comeback To 2028 Model Year",
+       "source": "Jalopnik",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWJaU2M1eGhqTGtlUGdyUnRKNTlVUjRja1JtLWNNcWJVT1Y5NWU5bUF0SlpQTWNpSGtmSlJMQ2s2aXkxclloNU5jTkRMLW8tUTF0NWRJVVNCWEtrQ083R0RsYk5KT3o3QmhIS0hyb2xucmhIX1g0eEZqUkliNGczT21SaFhuXzg?oc=5",
+       "date": "2026-09-25T14:16Z",
        "right": false
       },
       {
-       "title": "Georgia Peanut Commission chair is latest Republican to back Jon Ossoff",
-       "source": "The Atlanta Journal-Constitution",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDkwZkJNRUtKUy1wMFRQRWxZMjNINVJSX2Zra3dNMHFpc2pXeERUa1lKUGszSXJENnlhQ2c1NFJrb0RJS3ltYnJYVERfcEVCZUlYajBTdEJsS21sdjFTdjdoUWI5WEFEYjRlVE9lWU5faURCMGNaNEdUcDB3NU9jcWJaT3lXWFo3NTVpQXhncFF1SXBXLVFFai1SWFBpVklXa0FjZGhEdTJFd3dIdkE?oc=5",
-       "date": "2026-09-28T13:08Z",
-       "right": false
-      },
-      {
-       "title": "Senate approves Hyde-Smith, Warnock resolution for Gold Star Families Remembrance Week",
-       "source": "tippahnews.com",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHFLbjRxS3p4Rm41ZEpmYnRFdDVwc0NfSmw1VzIxdkJRcnBxa2ZnOHlJN284ZFBSNnNISHdXNkRxUzdpWVBmLVY1ZTE1eFJQOFdfUXo3QkltSWthTnhqMjBINmRyeFlIX1hvQTA1eW9fanhGWndXNmUwWGsyQWN2dUFRdTZ0RmFEMVJlbm1nUElyRWp3Qm5ieDFSUFJETnJ0d3JJTDJlRzlKa0xEXzNkR3ByQWxiOHptMUlkZHRnYjZWNFNnc2dN?oc=5",
-       "date": "2026-09-25T14:22Z",
-       "right": false
-      },
-      {
-       "title": "NEWS: Senate Approves Hyde-Smith & Warnock Resolution Designating ‘Gold Star Families Remembrance Week’",
-       "source": "Forth.News",
-       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NZ2Jpckt1WUxJelNXYWowM3RIRXhwNlByYWdkTUNUcUxhSWJZUVBsSnpsNkNaZ25BSjduaHFMSVA3bm5Jd0E4aFlOd3BBMUNvTHVubEVSV3h4cFNyVGZTSEVmWDVFLW1kcDNQY0VtSzJsOTAt?oc=5",
-       "date": "2026-09-25T12:10Z",
-       "right": false
-      },
-      {
-       "title": "Democrats are already making moves to run for president. Here’s who’s doing what.",
-       "source": "washingtonpost.com",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWW1NbnBjdXoxakxqXzhjOFFZZ3FSQzh1QWRjOFF5eGF2d1lCYzhyazRJMjhXQS1NQjAzeHFEYTVGQjJyREdReUQ2Vy1DekwxSUQxMjJXOXZuSWcydnJCaExPZ2RlZFVlX3F6cVZkYkpPV1lGeDMzZ3VaZ193aWhlQkppZ1hSWnBtMUhYR3hNX2QwZzJHQnE1OVBrWGx0NXNOMU5VX2oyUXdHYnoteGJzR0NjOXZGcE5YM1E?oc=5",
-       "date": "2026-09-23T16:00Z",
-       "right": false
-      },
-      {
-       "title": "Jon Ossoff",
+       "title": "Elissa Slotkin",
        "source": "Britannica",
-       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84TUV3bjNoVGsyeHNTY0hTWlVuWDM4MFUzLUNKOFBsUFJ0QUllNHNUczJ6UFdROHpDbElSZDVUUUt3MHNtbUlXVkF3RXU4aGlldi1qVGdpa0FYT00?oc=5",
-       "date": "2026-09-22T05:00Z",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VQmc0ZlJxRlpOaFFPUE5maVJsOFdxNHNIQ2VNUmd1amVTZWM2ZkNWZmNGdGVoNk1MMWhFZnFlcjNjbUdoRDJOdlhFYkdhRWVIaUE2QnliWWZtR0dTaUx2MA?oc=5",
+       "date": "2026-09-25T05:00Z",
+       "right": false
+      },
+      {
+       "title": "Michigan progressive ditches stance on Chinese autos before Xi visit",
+       "source": "Times West Virginian",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdWpEMUllZGlXUVFaVllNUG4yRzJLM0NEaDZOcGlsN2llaVc2MjQzc1M3TEFuZjd1X2ZxVDdBY09VcG1HdXNreGxxOU5MX0pUaXV5TXNDT3JpQXdjZU9XLTdvdDdDQllCYUItdG5qdE40eEd2N1hQT0p6NnFvRGhJTzRSVjR4YVl2T0xvSE9UVUlzZG9VaVlOVnFob1BqeHdPSEhrZ0xiUVdCLUw5cVE1dEdfN0Z0b0lWdklVQUZDTzRfdWV2MVZUMGVuUWlvSDZIWnBNZEdPVEhFdEVWQ3R0NFRVT2tUaGpxb3FRZw?oc=5",
+       "date": "2026-09-24T10:56Z",
+       "right": false
+      },
+      {
+       "title": "The wink-and-nod primary is on",
+       "source": "Politico",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWZ4MXBwUklVUGF2ek51WEk4NUY0aW9KY25FNkZaSVctcnhLRmUzeVFNQll2MC15ODZ2dnVUaXFBNWhfV1lMZVJQaHpqX1dZQWFBSFJldW9LM3BrS0xCUkFiR3ZmYVdPQ3hET0UzV3ZkaVcteXhXRGVQc3d2UnJYZnQ0ZXlCcTBBaXM1aGVaTFFfX05zVEJjUUlrZXJiQmU4?oc=5",
+       "date": "2026-09-23T18:19Z",
+       "right": false
+      },
+      {
+       "title": "Editorial | Idea Fest introduces presidential, vice presidential prospects",
+       "source": "The Cap Times",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUDl4Q2p1LVV3ODdybnpOa3pMS1lmSFJUbXJ2SmhvX0dCWmJER0dtX0N0V3FWRTBzek5MZkMxREhkQ2k1VlY4U0tkb2Z4a3I1NXZsbzUxTUFFZE84WUR5ZGJFd0ZIcGFZTkVqVjFTa01VWkhBUmRIYy1mRm9iQXRSLUpDb3NBWUxBLTFCaDdTWVNKU3BQSnRwaXB2bkNkVDRPNTRfdDZTV2lBbE1kOW4tZk9GNnAzbXpwQ0lVUWlJc1BLMWVYZ294bmxOc0d5T0ZiVktqMXdHZ0dFYU8wR1REM1lfTFZ1MXBxZGwtQ09UbVFTbTQ?oc=5",
+       "date": "2026-09-23T10:00Z",
+       "right": false
+      },
+      {
+       "title": "Slotkin Van Hollen Khanna",
+       "source": "The Cap Times",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3ZxQmFBS0I1WXdpN0o5Ym5kbGxESEpFQ0w0RzFVc1pxc2pFTlBtSUFwejFINXNhd3FlQkdPUTRrTWdFcXl3V2ZoWnRMX1RvNVFHOGJqN2U5U19aQUtLTWRjZ1lUNTV2YndZRTlScERsR1FMdnRsZFNTN3FnNHlBTllvRjA0WFRZS0VnRl9tbVBlcXpPb0tHQU9B?oc=5",
+       "date": "2026-09-22T21:05Z",
        "right": false
       }
      ],
      "va_30d": 0,
      "va_headlines": [],
-     "rank": 15,
+     "rank": 14,
      "delta_wk": null
     },
     {
      "name": "Mark Kelly",
      "status": "Interested",
      "bio": "Mark Kelly has served as a U.S. senator from Arizona since 2020.",
-     "poll_avg": 6.1,
+     "poll_avg": 6.5,
      "declined": false,
      "mentions_7d": 5,
      "right_7d": 0,
@@ -1483,10 +1410,10 @@
      "at_cap": false,
      "headlines": [
       {
-       "title": "Democrats keep going to South Carolina to stump for midterm candidates. It’s all about 2028.",
-       "source": "chicagotribune.com",
-       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pdWVhWWdkTFNhWHVUbW1DaTBuS0hSUjlwVl8wZFRJNU5KR1gyclVYdTQ0NGtmcmUwYlNNeUxfZXlMVGdFcGs0STd1RnVBcjRwbG9QZURGUURVa3FONEFJQTMwQkRUallUSTlvWEJR?oc=5",
-       "date": "2026-09-28T14:30Z",
+       "title": "Democrats keep coming to South Carolina to stump for midterm candidates. It’s all about 2028",
+       "source": "Daily Press",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVNwLVlSYmhhM3Y2UUhEM3ZpdTNOaVdWZ3hzdVFvTk5jejExdDB3azg5SS1YRHBuX2VDdlNfbXNYMGJwZ2tUZ041bnZPenpzdGVTN1pCa2RINUNlTDA1UmJxaHRGWlk3Uzd0SVJuT2tfZ0hGVFNyN1JtRFhvTk9HbXhsVHBRRU5FTU1ybzhCSQ?oc=5",
+       "date": "2026-09-28T15:48Z",
        "right": false
       },
       {
@@ -1498,7 +1425,7 @@
       },
       {
        "title": "Sen. Mark Kelly talks 2028 and possible run for President",
-       "source": "yahoo.com",
+       "source": "Yahoo",
        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96cWlGZ2FMQ0xDN0VmeEFaakVCNTFWVzFfZUMyb2Y2MUE5bDdMN0lYejdZZTFhaHJIWGdxa2w0VTc3bVNtQWJ0UVVuUy1iWUJMRWZHNlpab2N3Rlh0TGJOMGtFYnlkOF92b195OUt0a1A5anRVZUFIanZxdEREU0U?oc=5",
        "date": "2026-09-24T16:32Z",
        "right": false
@@ -1520,7 +1447,7 @@
      ],
      "va_30d": 0,
      "va_headlines": [],
-     "rank": 16,
+     "rank": 15,
      "delta_wk": null
     },
     {
@@ -1543,8 +1470,8 @@
       },
       {
        "title": "Democrats keep coming to South Carolina to stump for midterm candidates. It's all about 2028",
-       "source": "ClickOnDetroit | WDIV Local 4",
-       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObHAtdlFKMWoxQWc0MDZSVWpqTXd5OTdmYUxQdk8yN2JlWmNpUlZqSHYtNHNLS2N5Wi1CdGJ5aFJGd3FCakcxLUJjVVJsSUZZMlZsblhGUU91cXludXhQdHF3UFVIMmg5WlVkak16a0U4RllpdGk5aUQxNnFaV0VDUHQ1WWpOU05ra2lWUnNZVkZaY0plaXpCVGlxVVQwbUtRaTJvUk5yTm9RT1JiNlNjMTFlUVVrN2dReV9YRnVhVkNzejc4dzVQZHEzR2pneWViaVBJVks1NEIyN3J0VzA2SA?oc=5",
+       "source": "News4JAX",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbzd6Y1NwUUl5WVJoSnlMc3BYRjAxUV94MzRrQ1otdWNhSkIyOUJvT0xweDJXYVRveFl4a2M5b01GbkhDS2tDRjdlU0gyOGpBajFXU3ZBanp4U0toSEJrWFlDQ1NFd3dTTWhIUFREQUxHckdBUDR4dVU5RkJYbGlDOERxZWdSeDB2aG10MDExeDlTWnhYaW5hWEJNVHVjekNZVzhiSlllZVVsV1Z1WU1kWW1rN3pSY1ZnMzc4dEJwamJLZ1kyT0lNMFMzd3hNZjVhSWo2d1lkc00?oc=5",
        "date": "2026-09-28T12:29Z",
        "right": false
       },
@@ -1572,6 +1499,58 @@
      ],
      "va_30d": 0,
      "va_headlines": [],
+     "rank": 16,
+     "delta_wk": null
+    },
+    {
+     "name": "Raphael Warnock",
+     "status": "Speculated",
+     "bio": "Raphael Warnock has served as a U.S. senator from Georgia since 2021.",
+     "poll_avg": null,
+     "declined": false,
+     "mentions_7d": 5,
+     "right_7d": 0,
+     "right_pct": 0,
+     "at_cap": false,
+     "headlines": [
+      {
+       "title": "Georgia Election 2026: Key Races and Historical Presidential Election Results",
+       "source": "NBC News",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVmdoeEEwNVJJOWJvVlVMaVg5aVRmRFFQZUdDYzF3bzJIaC11cURSNTY2VzRuUVgxSTZuVkdwNW9NTlE2M3k5QXVSZldRbU5XcWJqVWtueTFNNEszZHQ2dW5SSGh4NTA4WEpIRGlfWUM?oc=5",
+       "date": "2026-09-28T20:45Z",
+       "right": false
+      },
+      {
+       "title": "Georgia Peanut Commission chair is latest Republican to back Jon Ossoff",
+       "source": "ajc.com",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDkwZkJNRUtKUy1wMFRQRWxZMjNINVJSX2Zra3dNMHFpc2pXeERUa1lKUGszSXJENnlhQ2c1NFJrb0RJS3ltYnJYVERfcEVCZUlYajBTdEJsS21sdjFTdjdoUWI5WEFEYjRlVE9lWU5faURCMGNaNEdUcDB3NU9jcWJaT3lXWFo3NTVpQXhncFF1SXBXLVFFai1SWFBpVklXa0FjZGhEdTJFd3dIdkE?oc=5",
+       "date": "2026-09-28T13:35Z",
+       "right": false
+      },
+      {
+       "title": "Senate approves Hyde-Smith, Warnock resolution for Gold Star Families Remembrance Week",
+       "source": "tippahnews.com",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHFLbjRxS3p4Rm41ZEpmYnRFdDVwc0NfSmw1VzIxdkJRcnBxa2ZnOHlJN284ZFBSNnNISHdXNkRxUzdpWVBmLVY1ZTE1eFJQOFdfUXo3QkltSWthTnhqMjBINmRyeFlIX1hvQTA1eW9fanhGWndXNmUwWGsyQWN2dUFRdTZ0RmFEMVJlbm1nUElyRWp3Qm5ieDFSUFJETnJ0d3JJTDJlRzlKa0xEXzNkR3ByQWxiOHptMUlkZHRnYjZWNFNnc2dN?oc=5",
+       "date": "2026-09-25T14:22Z",
+       "right": false
+      },
+      {
+       "title": "NEWS: Senate Approves Hyde-Smith & Warnock Resolution Designating ‘Gold Star Families Remembrance Week’",
+       "source": "Forth.News",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NZ2Jpckt1WUxJelNXYWowM3RIRXhwNlByYWdkTUNUcUxhSWJZUVBsSnpsNkNaZ25BSjduaHFMSVA3bm5Jd0E4aFlOd3BBMUNvTHVubEVSV3h4cFNyVGZTSEVmWDVFLW1kcDNQY0VtSzJsOTAt?oc=5",
+       "date": "2026-09-25T12:10Z",
+       "right": false
+      },
+      {
+       "title": "Democrats are already making moves to run for president. Here’s who’s doing what.",
+       "source": "washingtonpost.com",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWW1NbnBjdXoxakxqXzhjOFFZZ3FSQzh1QWRjOFF5eGF2d1lCYzhyazRJMjhXQS1NQjAzeHFEYTVGQjJyREdReUQ2Vy1DekwxSUQxMjJXOXZuSWcydnJCaExPZ2RlZFVlX3F6cVZkYkpPV1lGeDMzZ3VaZ193aWhlQkppZ1hSWnBtMUhYR3hNX2QwZzJHQnE1OVBrWGx0NXNOMU5VX2oyUXdHYnoteGJzR0NjOXZGcE5YM1E?oc=5",
+       "date": "2026-09-23T16:00Z",
+       "right": false
+      }
+     ],
+     "va_30d": 0,
+     "va_headlines": [],
      "rank": 17,
      "delta_wk": null
     },
@@ -1581,14 +1560,14 @@
      "bio": "JB Pritzker has served as the 43rd governor of Illinois since 2019.",
      "poll_avg": 3.1,
      "declined": false,
-     "mentions_7d": 4,
-     "right_7d": 1,
-     "right_pct": 25,
+     "mentions_7d": 3,
+     "right_7d": 0,
+     "right_pct": 0,
      "at_cap": false,
      "headlines": [
       {
        "title": "Democrats keep going to South Carolina to stump for midterm candidates. It’s all about 2028.",
-       "source": "chicagotribune.com",
+       "source": "Chicago Tribune",
        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pdWVhWWdkTFNhWHVUbW1DaTBuS0hSUjlwVl8wZFRJNU5KR1gyclVYdTQ0NGtmcmUwYlNNeUxfZXlMVGdFcGs0STd1RnVBcjRwbG9QZURGUURVa3FONEFJQTMwQkRUallUSTlvWEJR?oc=5",
        "date": "2026-09-28T14:30Z",
        "right": false
@@ -1606,13 +1585,6 @@
        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9raDVwd21lbTJJSVdzNEpRODlaSjNXU0RDVjk1eldFMFJvV3o3REZrVW9YM293d3owbzRkaHFPRVJUeVdBdWNxRjhhWkMxVm9nV3YzSjN1VkhVYjg4QmZ5UTNLaVFpWHIzeGFNczVWNkVyT0tybXVuQ1hB?oc=5",
        "date": "2026-09-23T18:06Z",
        "right": false
-      },
-      {
-       "title": "Dem With Sights On 2028 Presidential Bid Loses 80 Pounds With Fat Shot",
-       "source": "The Daily Wire",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYV9GbVhSQjR6Rkg4UVE4NG1LV1g0UFVfRXdEcEFFZnVwMXVyNlF1YW9YaVBzNEQyUjZGV0Jhdmt3WmU1V2NOekxGRG12cHRfUmhJRnpIb0ZwMERpanFoZFZxNm1PRnJJSU1wTXY4MUNpRGJsaWVwSEVOWFlhdDRfeU9nRlRKTTdFWEt6U0dVR2JfR0tJLUx0MmF1bGdnY2sxU2NN?oc=5",
-       "date": "2026-09-22T05:27Z",
-       "right": true
       }
      ],
      "va_30d": 0,
@@ -1626,19 +1598,11 @@
      "bio": "Don Lemon most recently worked as a television news anchor for CNN from 2006 to 2023.",
      "poll_avg": null,
      "declined": false,
-     "mentions_7d": 1,
+     "mentions_7d": 0,
      "right_7d": 0,
-     "right_pct": 0,
+     "right_pct": null,
      "at_cap": false,
-     "headlines": [
-      {
-       "title": "Ahead of Midterms, Pete Buttigieg is everywhere Democrats need to win",
-       "source": "Advocate.com",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPay04S1F3LTJ5UUo5N1pGTjAzRk80YUxqN3A3M2IzOFM0NVFJMzl5NHhsVmxmMEhCekNhWXRrdlVQNno2WTVGR2VndTNFaFRIaXZHLTRJeHl6YlgxM2d1TmNITHhSbXBxRHJsYkNua0M4UVd3NGoxeWU1NnJ4ZGxwNnd2WDk?oc=5",
-       "date": "2026-09-25T20:50Z",
-       "right": false
-      }
-     ],
+     "headlines": [],
      "va_30d": 0,
      "va_headlines": [],
      "rank": 19,
@@ -1665,9 +1629,7 @@
    ],
    "poll_aggregators": [
     "270toWin",
-    "Real Clear Polling",
-    "Race to the WH",
-    "VoteHub"
+    "Real Clear Polling"
    ],
    "poll_updated": "August 28, 2026"
   },
@@ -1677,13 +1639,34 @@
      "name": "JD Vance",
      "status": "Interested",
      "bio": "JD Vance has served as the 50th vice president of the United States since 2025.",
-     "poll_avg": 39.6,
+     "poll_avg": 39.7,
      "declined": false,
-     "mentions_7d": 49,
-     "right_7d": 9,
-     "right_pct": 18,
+     "mentions_7d": 48,
+     "right_7d": 8,
+     "right_pct": 17,
      "at_cap": false,
      "headlines": [
+      {
+       "title": "Sen. Eric Schmitt is drawing buzz as a possible Vance VP in 2028",
+       "source": "Axios",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMkd6eEZwZkdCbVVNYnFEdzFLaEVPNGZxRVJrWEt5TXN3b0RsV3BvYkEzWnZyVkVLbFBQbGROT0hpcmpiTFlJeEVqbEduZm9qR0ZIbnQ1VHNXOHB6YXZfX0lYTnA0NGJtamt4MlI5TldkSDhxZ3daSUVhdU5oOTFkcW1saw?oc=5",
+       "date": "2026-09-29T09:45Z",
+       "right": false
+      },
+      {
+       "title": "Top reporters float surprise choices on who could run for president after Trump",
+       "source": "news24.com.au",
+       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNb2N6dElXT25zclhNRWcwZzQxcTVNTWt3emtXVGg3aDgwQ01IMHB0N3ozV0N4VWM2eDJHT2xhSTI4RmZZTU84VUFQTlVoNUU1SUJLV1NWQ0J3bVdZTTg4NVhMb2pSRVVHS18zdWktYzQzWjlUZFlBV2NYYjEtb0IxOG1QSTMxZG1LNnZ5SFduQUs3R1pKOVRiVVNDcjZaOGlxc3A3SExReHRxeXJhVWo2dElxZXlOYkcySDFYeF9Qamgyck80cUdDdFZmN2JSeE41OVhZMXBGZ29uWXFCbEJBZ0VMZXpkcVJtWmhMeVM2ZkZaMk53R2lDR3F6U0ozZHNDenRqSWxEN2tFRkZmV0RZZ1B5cDhYb2liUERGMTVZMURkZUFEVmdCcjROak5Sc2fSAa8CQVVfeXFMTW9jenRJV09uc3JYTUVnMGc0MXE1TU1rd3prV1RoN2g4MENNSDBwdDd6M1dDeFVjNngyR09sYUkyOEZmWU1POFVBUE5VaDVFNUlCS1dTVkNCd21XWU04ODVYTG9qUkVVR0tfM3VpLWM0M1o5VGRZQVdjWGIxLW9CMThtUEkzMWRtSzZ2eUhXbkFLN0daSjlUYlVTQ3I2WjhpcXNwN0hMUXh0cXlyYVVqNnRJcWV5TmJHMkgxWHhfUGpoMnJPNHFHQ3RWZjdiUnhONTlYWTFwRmdvbllxQmxCQWdFTGV6ZHFSbVpoTHlTNmZGWjJOd0dpQ0dxelNKM2RzQ3p0aklsRDdrRUZGZldEWWdQeXA4WG9pYlBERjE1WTFEZGVBRFZnQnI0TmpOUnNn?oc=5",
+       "date": "2026-09-28T23:41Z",
+       "right": false
+      },
+      {
+       "title": "2028 Republican Presidential Primary: Latest Polls",
+       "source": "The New York Times",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlRackZzQjF1c3FBNDYwcGJxYmZEaWlURUpnRDdMNjFiWmJ3MktXYi1IbUl0cWVtX0VCSVA0SGNPTmhuNU9PZFE0MXBFbzQ1UTVwc0ZQUGFwdmVXc2U2eHlsX0NDSjV1UU9YYzQ3WG91TUV2NTdsbW91NllMdGV0RjNXa3JqUmUzbmdwU0ItWQ?oc=5",
+       "date": "2026-09-28T19:30Z",
+       "right": false
+      },
       {
        "title": "Maggie Haberman Predicts GOP’s Next Presidential Nominee, JD Vance",
        "source": "The Daily Beast",
@@ -1692,25 +1675,25 @@
        "right": false
       },
       {
-       "title": "2028 Republican Presidential Primary: Latest Polls",
-       "source": "The New York Times",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlRackZzQjF1c3FBNDYwcGJxYmZEaWlURUpnRDdMNjFiWmJ3MktXYi1IbUl0cWVtX0VCSVA0SGNPTmhuNU9PZFE0MXBFbzQ1UTVwc0ZQUGFwdmVXc2U2eHlsX0NDSjV1UU9YYzQ3WG91TUV2NTdsbW91NllMdGV0RjNXa3JqUmUzbmdwU0ItWQ?oc=5",
-       "date": "2026-09-28T17:31Z",
+       "title": "Maggie Haberman Predicts GOP’s Next Presidential Nominee",
+       "source": "ca.news.yahoo.com",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lOXVPWGI4d1kwdlVsemRBY1MxSU51c1FNOGFtZHAxM3VUWTRVUE9zZW9idEsxQ012SXlCdWFpd2habDRQQkQ0MXVwVFNlWlk4VDkwSVkxVC1EQ0VPN3hWS0RxMzg5WHd6MEh3VnF2SmM2R1BnOG5xMTAtQ0M?oc=5",
+       "date": "2026-09-28T18:13Z",
+       "right": false
+      },
+      {
+       "title": "Yoram Hazony analyzes JD Vance, Marco Rubio, and GOP shifts on Israel",
+       "source": "The Jerusalem Post",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jZ2J1NEpvTDRZU0toT0VqOHEtLXk0czlkaE9JdUt4NVBzbG9Tb2V4UHhjYlJRVWdsOUJ5dm05ME02VE1sYmt4MFd6SGZXMml2Y0pyYzhGZUZwY1lDenB2dXBSZ0g?oc=5",
+       "date": "2026-09-28T18:10Z",
        "right": false
       },
       {
        "title": "Vance Faces 2028 Rivals as Republicans Test Waters",
-       "source": "yahoo.com",
+       "source": "Yahoo",
        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHMzcGRiazBEVzhELU5hSlE3cWdMc0pyT3huYXR6QzNBNFJOQTZ5VkVySTNDcWQ5eXhrd0NCUURPdW1VTGZxTktIUHZFamYtbG12c04wRWQ0a3RVa1VaaVY4S1hKVndtRzRpV0dKZHBBbzRPTjFucmVkTUQ2dUtEOVAtdnZUNldpZ3hYd1ZXeWIxTTNXcWc?oc=5",
        "date": "2026-09-28T16:39Z",
        "right": false
-      },
-      {
-       "title": "JD Vance Faces 2028 Challengers as Republicans Test Waters",
-       "source": "Newsmax",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3RfbXJCLTZZVnQyOGlVOGR6bV9DVEhUUGt5eFMweGNkNDZYSXowVWQtZy1RWU1SaW5nS1ZUUHg2aFdvTVhYQTZUMzMyWENaNFl0TnRwVlR5VHV4cDdleFVWRU9GZUgwVlJqN3JLVU92Z3MxcERmLU1KOTNMcHkxWlJZekdSSEk?oc=5",
-       "date": "2026-09-28T16:39Z",
-       "right": true
       },
       {
        "title": "White House reporters predict which Republicans they believe will run for president after Trump",
@@ -1728,16 +1711,9 @@
       },
       {
        "title": "JD Vance to Headline Midterm Rally in South Texas",
-       "source": "texasscorecard.com",
+       "source": "Texas Scorecard",
        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQk4zaVl3bWZtVGlfSm9mbjk1YzBWc3Q2U0tpNXRZanNXM2JWSml2dmVhTjJIVm5sZlRrOFUyY1NXZzZzd0dfaGtVRHYxaWN4ZUZVekZEOTBiSk9VR29HdHRINGVuWDVZTmFCTjkzcTY4aTNSOVVPaWh1aUZ2d0Mzdk1PcGZ3bERWYU9UVmFnOFhJbF9Pb1E?oc=5",
        "date": "2026-09-27T23:30Z",
-       "right": false
-      },
-      {
-       "title": "Vice President JD Vance and second lady Usha Vance welcome 4th child",
-       "source": "abcnews.com",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa29qcG5Mdi1aX3F1dGxsLUNkeTlFVUo2QXo0RmxIWlVEeUFFdml2TTY4dEc1cE1fQ3hmdU0xME9jYnozcmx4bV95YVpON3JWd2NuMGt0cUdiRW1qN20xOTQzc3o5YXhjam1xQ2ZFSVphdDlTZHVOejN4dFYtQ29weVM4U1ZaZFlZeGtzQWdLbTVCLVF0MEHSAZsBQVVfeXFMT0hfNTh1cjNEWHdrUkswdEJyUThBLWxmSXkzMVZ0ZjNvQk1ORndWb0lvdDQwTEpJc1BZWmwySHZsS2ozZXZ1T2tkNWU2czBWcC11TGhhYkZZQXAxWFlrTEVxSTQzalZ6eHItU0dJUW1SZTBfTnFPZjNLejZ1dUdQVExZWDlqT3VHNDRNVW54V2duOVpOZE1fN1pKRzg?oc=5",
-       "date": "2026-09-27T20:38Z",
        "right": false
       },
       {
@@ -1763,7 +1739,7 @@
       },
       {
        "title": "Peter Thiel Warns Even JD Vance Could Struggle to Win 2028 White House — Says Vance Vs Rubio is 'The Wrong Question'",
-       "source": "yahoo.com",
+       "source": "Yahoo",
        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkJxUjk4a3ZBUk0yenNqN0p2Q1Bmektoa3AzMnJ4V0Y2cU00X1hrOVNwd3Q2QzBCUkNLVWlnVXZhSFFFQmlObmpIVVdYa1NmNnRNeUd0aW9fQlFIZjZQUEZIckhHeS1zQjZLOXlkcHpSd1hOWW1sNkYzZTFPaFI1Wl9OMzRsQ1NGc1lMTktR?oc=5",
        "date": "2026-09-27T03:30Z",
        "right": false
@@ -1774,20 +1750,6 @@
        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9LQ1ZnTDlyQzBkT1lfamNIN3Qwa0dua2ZIU0kwMlpwRkdDWXVJVERsYlZ3ak1fX2xqNVBr?oc=5",
        "date": "2026-09-26T23:39Z",
        "right": false
-      },
-      {
-       "title": "Casar wants Democrats to make JD Vance’s Silicon Valley ties a liability",
-       "source": "Politico",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzQxMmZMZVYxUm5aTGhwTG5yQ2xVR3F0WlZIQmkwMndQUzI4cXdjbEFFUUJPSzdEZkJGSndmYm1kQ1FWX1dYaEl4dGdVbkJhNTR0bnk1MVotSVBxZ3lLUnJpd1NYR25JZUJmWU1TNWFheTVELUxfRlhUcUJDOWQwM0NoUFAyb2hPdm5RQjRxdWFfbEE?oc=5",
-       "date": "2026-09-26T16:08Z",
-       "right": false
-      },
-      {
-       "title": "US midterm elections just weeks away, but these two frontrunners could be leading their parties in 2028 pr",
-       "source": "The Economic Times",
-       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdEtNc01lRVdORWlUX253NF9LSVJaM1FCNlFQOEhTSXRXT2pSV1VNczJITm50Vm1aaEJCQW1uU1pmNmRPa0dEV0ZjbVNPbFJKQ3VzQWpESHl2NVdUVE5PdDFmdEg3NzVKdUg5Vk1YUTh3NUpINnlJNldTaDlPWmVhSGdiWEw4LXU4b0J2Rm9DdzZyWVJrdzJWRFZPR2tSNkVzaG9vaFRGd2pmb3B5RmJwN0Fyanp0ZkNFanNxbmNLWEdlQzRaQk5iVmJxbEx6M1RjSXZpRFduU1dDTGxHeFJlbjYwd0habTFJa0J6LXUtVVdPd1BrRmZZa1EtdjI1VURPakdCT2c5aXh1eUhTTlZLcNIBkAJBVV95cUxQdEtNc01lRVdORWlUX253NF9LSVJaM1FCNlFQOEhTSXRXT2pSV1VNczJITm50Vm1aaEJCQW1uU1pmNmRPa0dEV0ZjbVNPbFJKQ3VzQWpESHl2NVdUVE5PdDFmdEg3NzVKdUg5Vk1YUTh3NUpINnlJNldTaDlPWmVhSGdiWEw4LXU4b0J2Rm9DdzZyWVJrdzJWRFZPR2tSNkVzaG9vaFRGd2pmb3B5RmJwN0Fyanp0ZkNFanNxbmNLWEdlQzRaQk5iVmJxbEx6M1RjSXZpRFduU1dDTGxHeFJlbjYwd0habTFJa0J6LXUtVVdPd1BrRmZZa1EtdjI1VURPakdCT2c5aXh1eUhTTlZLcA?oc=5",
-       "date": "2026-09-26T14:30Z",
-       "right": false
       }
      ],
      "rank": 1,
@@ -1797,18 +1759,67 @@
      "name": "Ron DeSantis",
      "status": "Interested",
      "bio": "Ron DeSantis has served as the 46th governor of Florida since 2019 and previously ran for the Republican presidential nomination in 2024.",
-     "poll_avg": 7.7,
+     "poll_avg": 7.5,
      "declined": false,
      "mentions_7d": 39,
-     "right_7d": 3,
-     "right_pct": 8,
+     "right_7d": 4,
+     "right_pct": 10,
      "at_cap": false,
      "headlines": [
+      {
+       "title": "Former Disney CEO breaks silence on ‘Don’t Say Gay,’ Ron DeSantis feud",
+       "source": "clickorlando.com",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGZ1ekdQQXpjdXM0bi1CWE1BWWhtUTNFY1c3Ul9nNlA4QmV6Q0drRUxLM0RXUHg5bHJiSDRVZjQza1ZQQmg3Z0VHMk9BSy14UExGaV8tRkcwWXhUbThOVjhPNkp4N09vRDhHMUJoTUNQRjBZYV9LazBrbEZYaERBZ2pNU0I3Uy01TEJpbjVmTXl0V0tOQTI4SENBSzRDUFZLMFlKLS00ZGZ0ZTdZVXN4cThUQ05hcVg5Q1E?oc=5",
+       "date": "2026-09-29T09:00Z",
+       "right": false
+      },
+      {
+       "title": "Sunburn — The morning read of what’s hot in Florida politics — 9.29.26",
+       "source": "Florida Politics",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2g5eWlEZmNNTjNrdjN4X2p1dlp0TS02d1l2NWFrYXBiMGtZNEZ1SDJ5Q2NZaHltWVQ1b0tJUU1mRVFFQ0ZaSjFpZ0NSYTNueV9rZjRDVG1JRk5mNW51R2R5VkRXX1hDRXlXamY5UXRoZ0trX2gtNktFb19jUEhWWXp2WUEtWXFTUzQwMVN1YjdNRF9YR2ZqcUZhaHE0NGVVUDJhdTFqTnl2N21LS0Y4?oc=5",
+       "date": "2026-09-29T08:03Z",
+       "right": false
+      },
+      {
+       "title": "If Trump Had Been More Like Massie, He Might Be Winning the Midterms",
+       "source": "theamericanconservative.com",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFk5ckV2RDhKRjE1QS1raklyQXRfME1jZDg1bTV1RHcxQnJXbmdRazM1UEVuQXJzN1RSZTd6Y20zdDVUa29hV1A0U3hmX2llMTVXWEszRl9oSkU0TkR6bFhrM3RfUjR5a3JZcEQ0UlBibVk0ZDBmTXJTNFA3d0psRklDd2pSU1lCaG1IZ2FlNzMxRTRHOTBwNVVZVXJMdnNtaGZ6ZkpHTkMzSDJM?oc=5",
+       "date": "2026-09-29T04:05Z",
+       "right": false
+      },
+      {
+       "title": "State House Dome: Some media reports wrong, indies welcome i...",
+       "source": "New Hampshire Union Leader",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzFfNWZTMzJSV3laN0IwMVpkalBFdjZKaTE5aGNSdDBCT1gyV2NpRVQ4UUQzXzBMMmdTRHBjMXZKenhKNzdRWWhtSm9BRFpaWnQyc0VuNW5wSHJwUS1QRHdOLTdpOVQxRGNJbm9JWE5kLXJkQ2lvQmplVmZqNHpfcEdScjgyWVpKSzlDNUI2WQ?oc=5",
+       "date": "2026-09-29T02:16Z",
+       "right": false
+      },
+      {
+       "title": "Rep. Luna to Newsmax: Kamala Making Calls for 2028",
+       "source": "Newsmax",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnpEWEhMdGF1dzVWYU92MVBiUzVuN3RVOXNKZzNQRGZ2S3hBTmlramV2QXVUZEo5czBjVUkteXVaVmY4LUdjTHlKdDNabzVkNU1DUWZFcjZiX0VHektTOEZoNnpkOGdUbEQ5a1hYdGkwQzA1eEw0cXIxdEtqdEE3cFlna1ViWXo1UlhOY3U1VlhJSlQ3T0NLZDBsTzVYN2pn?oc=5",
+       "date": "2026-09-29T02:10Z",
+       "right": true
+      },
       {
        "title": "Denver Riggleman leads (Former) Republicans for Perriello rollout",
        "source": "Augusta Free Press",
        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjljMWhqWjZnYXkzVDVlTWhpMkN1VlNuclZTeVpnbFNvbHJKLU9IYVcyak9vRkZXT0M4YVdiZ2duRGtHVFcwT0UzQzBHVjB2eUc0aTlwM2s2dXRTS2hmU24wZE12MU5ZNjZIekFqc193TEc4TTlHYi15Y0JCM3lFZzdfNHA1clRTQVRPRTExeHJjVkJ0ZmdDTVNoaGZMbE0?oc=5",
        "date": "2026-09-29T00:07Z",
+       "right": false
+      },
+      {
+       "title": "2026 Primary Election Calendar: What Races Are Today?",
+       "source": "NBC News",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wZ0FEZ0NyOGRRU0hlSW1zbWo4bUFWTDRybHFSQWVMQUdFQ0FuVWNvenRFV2pVZkVueDNfckY2SjZraUo1d2xLX2VDVDN5eEpja1YyOWp1SDdYaFY0ajV1Z3VmZWV2blNaUk5FOXhDeU5wdw?oc=5",
+       "date": "2026-09-28T20:51Z",
+       "right": false
+      },
+      {
+       "title": "2028 Republican Presidential Primary: Latest Polls",
+       "source": "The New York Times",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlRackZzQjF1c3FBNDYwcGJxYmZEaWlURUpnRDdMNjFiWmJ3MktXYi1IbUl0cWVtX0VCSVA0SGNPTmhuNU9PZFE0MXBFbzQ1UTVwc0ZQUGFwdmVXc2U2eHlsX0NDSjV1UU9YYzQ3WG91TUV2NTdsbW91NllMdGV0RjNXa3JqUmUzbmdwU0ItWQ?oc=5",
+       "date": "2026-09-28T19:30Z",
        "right": false
       },
       {
@@ -1826,15 +1837,8 @@
        "right": true
       },
       {
-       "title": "2028 Republican Presidential Primary: Latest Polls",
-       "source": "The New York Times",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlRackZzQjF1c3FBNDYwcGJxYmZEaWlURUpnRDdMNjFiWmJ3MktXYi1IbUl0cWVtX0VCSVA0SGNPTmhuNU9PZFE0MXBFbzQ1UTVwc0ZQUGFwdmVXc2U2eHlsX0NDSjV1UU9YYzQ3WG91TUV2NTdsbW91NllMdGV0RjNXa3JqUmUzbmdwU0ItWQ?oc=5",
-       "date": "2026-09-28T17:31Z",
-       "right": false
-      },
-      {
        "title": "Vance Faces 2028 Rivals as Republicans Test Waters",
-       "source": "yahoo.com",
+       "source": "Yahoo",
        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHMzcGRiazBEVzhELU5hSlE3cWdMc0pyT3huYXR6QzNBNFJOQTZ5VkVySTNDcWQ5eXhrd0NCUURPdW1VTGZxTktIUHZFamYtbG12c04wRWQ0a3RVa1VaaVY4S1hKVndtRzRpV0dKZHBBbzRPTjFucmVkTUQ2dUtEOVAtdnZUNldpZ3hYd1ZXeWIxTTNXcWc?oc=5",
        "date": "2026-09-28T16:39Z",
        "right": false
@@ -1866,48 +1870,6 @@
        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWjM3SGRfX2RCRWZGTnljM0k4LU5GZWd5S1Q4ZUpGeDlXMXAyazFLTk9yYkhZaFoxV3VtcUhUMlpWaHRIay1wSWxvQWIyVTFEaGI4cFpEZ2FqSWZaQ1E0QWlLb0Z4a1FoQVFZOHU1VTQ4VlZNTVFFZ2tzX0VxakdhZzQySGpoanMtWW9SZjVTMVZtTWxFNWd6ZVdxc0x1aXFVZEltYzBlVC1tZzAwNDlJM2JpNDM3TW9mbURQdk9jNW9zbkduT3JFSzVqVEdSU1VZVjA4WW96RVdMenlOZUMxb2JPdngybWpuSnhkZHU5T201ZXhPbUNhX0h1aTRENXVTdHFueFZ3?oc=5",
        "date": "2026-09-27T12:31Z",
        "right": false
-      },
-      {
-       "title": "Florida GOP Gubernatorial Nominee Byron Donalds Scrubs Trump References From His Campaign Site Amid Falling...",
-       "source": "uPolitics",
-       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWVhOQlNtSGEweHRhTV9KNGl5dGF0Zlpsa2oyb0prWGgwZThfX25oU2pQalAxakdwOHZOTm5IN0o1SUtpTDJ4WnhkaE1GTl90NDBQQVRkOUt1Ty1DQXUteEJfVzBXc2JvUGtWSkh2RURKb2lmN2d1M2R4c2V5Y1BORldrRThxTk9nWEZNNWxHUHpVNlJwaTZSd09XR096Q01PYlc2N3AzZl9WcV9mWGFkT0pRYzIxOWJrbXBHZlVWSV9PZDY1X05VaXo0R21PdEFWWFJ4M3JZZEZxemI2cG5FZEZR0gHiAUFVX3lxTE9ZWE5CU21IYTB4dGFNX0o0aXl0YXRmWmxrajJvSmtYaDBlOF9fbmhTalBqUDFqR3A4dk5Obkg3SjVJS2lMMnhaeGRoTUZOX3Q0MFBBVGQ5S3VPLUNBdS14Ql9XMFdzYm9Qa1ZKSHZFREpvaWY3Z3UzZHhzZXljUE5GV2tFOHFOT2dYRk01bEdQelU2UnBpNlJ3T1dHT3pDTU9iVzY3cDNmX1ZxX2ZYYWRPSlFjMjE5YmttcEdmVVZJX09kNjVfTlVpejRHbU90QVZYUngzcllkRnF6YjZwbkVkRlE?oc=5",
-       "date": "2026-09-26T21:23Z",
-       "right": false
-      },
-      {
-       "title": "Politico Appears To Be Addicted to 'Crack'",
-       "source": "newsbusters.org",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3MycXZZNlpTRXJRQWlFY2J3bVM0ZjJYRUVtTF9XVlhSNjFKWV8yenVLWmFJbnpIMUVBMFdpMnlBZXQzRDlCbXlsQnBVN05iUi1XenBOU3VNTFdMRnRXTGRNQkZNQVBhdENxNHQtcElrWjVHWEpFLXBDX3p2bGNoaHMxSXVqWEdGU0JXSEVXZ3d6SzA4ai1URVN3?oc=5",
-       "date": "2026-09-26T18:11Z",
-       "right": false
-      },
-      {
-       "title": "Florida Election 2026: Key Races and Historical Presidential Election Results",
-       "source": "NBC News",
-       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZERpQkk4QlVNeG9tV3BUWWtuaFFyNVJFMFpwVTVfQjZ4cVFSdHh4U3hGbmxIN0d6ZWQ0Q1R5dXRrZ05YelhGSDVPTkxHQU4yaTdkcHRGX1JiZmxhc3IyOEU5TTgxZ1RjNi1NZlhnZG8?oc=5",
-       "date": "2026-09-26T12:30Z",
-       "right": false
-      },
-      {
-       "title": "DeSantis touts 20 voter fraud indictments",
-       "source": "WLRN",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3JERTViSldjOENYbmN1UFIzSmxsLVkzQ3hHTTJkTzZ5emRoNmlUdl9wSjBCMEVTLWxMQXp2MXJwb1NneU51THJLSjlWbGQ0S0V2OVBSUG5OdVZYMFdEYXFTcHNxVnV6WTN3LUltT1QxNHpqektSMVFOQ1dUa1dpM09BZWZqbFRCZ01nWUVPTGZ3MUFMX3dMZw?oc=5",
-       "date": "2026-09-25T14:27Z",
-       "right": false
-      },
-      {
-       "title": "National Democrats to stump in Florida with House candidates in battleground seats",
-       "source": "Florida Politics",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkNsNUFOanFNWmUwbGN4d21FY3JmVnRoTVNJbVMtdHJqanlfN01FWmtxelZjcjR6Wkpub1JGU1NpSF9HWEhDcWFzNjNxUUxnVUdfVklTRGd1ZW44X2xteWJTcTNJQVU5bTVhb1pqQXdxUzAtM0VWQk1nQ2ZDdk9ldE9pSFJxUnRLM1dZS2xZYTNjQjcwMWFfa05ETVUtM21KeE4yN0s0NjNER0tLSTVOSEl3RUlRdUs2TTlndkgwOWxRNEhlWGc?oc=5",
-       "date": "2026-09-25T09:22Z",
-       "right": false
-      },
-      {
-       "title": "John B. Anderson | Politician, 1980 Presidential Race, Biography, & Facts",
-       "source": "Britannica",
-       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vV3c0T1BlWEZxMkJIVGR0djJmR0FPaFBsOXM2ekJkRXhZOXR6eGx1RFhabG1vdDVQd0V1M3UwLURnbzhvYWdzZzFCZUN2alRlYTUyVVBMQ2JaM2p0eVhITTR3?oc=5",
-       "date": "2026-09-25T05:00Z",
-       "right": false
       }
      ],
      "rank": 2,
@@ -1917,23 +1879,23 @@
      "name": "Robert F. Kennedy Jr.",
      "status": "Polled",
      "bio": "",
-     "poll_avg": 3.0,
+     "poll_avg": 2.6,
      "declined": false,
-     "mentions_7d": 39,
+     "mentions_7d": 36,
      "right_7d": 4,
-     "right_pct": 10,
+     "right_pct": 11,
      "at_cap": false,
      "headlines": [
       {
-       "title": "President Trump Mocks \"Sleepy\" Joe Biden & Then Falls Asleep In Front Of The World",
-       "source": "AllHipHop",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVEpTVUVhM2t1SnlYTWx6c0lWTFV4V0RCQ1BXd29MT3NGb3FTTUttZVV4a2R0alVBWEhvMWtPTGFUOFdDWGZWTHd1R3dlcVRiSTRodUd2SE9vVDlCc1ZkV3psaTd4bWNqMVp2Mjh1TE5keklvdmNjdUFyanI0ak5ndEhLazJLb3dWd3M1ejFHVjZuLXhCaWI3RlJEM2tnR2hWMjA3N0U0SGVuUQ?oc=5",
-       "date": "2026-09-29T01:09Z",
+       "title": "2026 Primary Election Calendar: What Races Are Today?",
+       "source": "NBC News",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wZ0FEZ0NyOGRRU0hlSW1zbWo4bUFWTDRybHFSQWVMQUdFQ0FuVWNvenRFV2pVZkVueDNfckY2SjZraUo1d2xLX2VDVDN5eEpja1YyOWp1SDdYaFY0ajV1Z3VmZWV2blNaUk5FOXhDeU5wdw?oc=5",
+       "date": "2026-09-28T20:51Z",
        "right": false
       },
       {
        "title": "Vance Faces 2028 Rivals as Republicans Test Waters",
-       "source": "yahoo.com",
+       "source": "Yahoo",
        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHMzcGRiazBEVzhELU5hSlE3cWdMc0pyT3huYXR6QzNBNFJOQTZ5VkVySTNDcWQ5eXhrd0NCUURPdW1VTGZxTktIUHZFamYtbG12c04wRWQ0a3RVa1VaaVY4S1hKVndtRzRpV0dKZHBBbzRPTjFucmVkTUQ2dUtEOVAtdnZUNldpZ3hYd1ZXeWIxTTNXcWc?oc=5",
        "date": "2026-09-28T16:39Z",
        "right": false
@@ -1960,24 +1922,10 @@
        "right": false
       },
       {
-       "title": "Mel B files court docs to make her ex stay away from her new man",
-       "source": "wonderwall.com",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUlwRXdoSFRiZnM5cnZCVFhuU0JsVTJXM2J4YXZ4VmZPRmh5X0ZUNG5kSGRHVzFJdVBzVHN1SlVNajJFeDFPS0t2OUwxT1NhdDBSaU1wejRybFhmRHl0N0w4ZjNvUUZxY1V6WEItN1dKRDVBOW42SXphdHBPRmZNakhmazg5aHJfMTc4Q0Q1WUFyakNrWlY2cHo2bmlHSUVzNXNLc1dhc0lCdjVzRlZObWVGaw?oc=5",
-       "date": "2026-09-27T13:33Z",
-       "right": false
-      },
-      {
        "title": "MAHA movement turns on Donald Trump and Robert F. Kennedy Jr.",
        "source": "wonderwall.com",
        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ1k3VDJnUzdJUGVQY2NoYUVDeUhLR01takV0blBpbXdrWmdQTUI3bXBCQktKbFVFeS0xMjJCeEVUNkJpcEplSEJQUTZUbjVEb2lKT3NFN1dFMFlxSzdNVmNVODE2VENmbXdYNV9LVGhKeGhfd09HSml3OEhjTkZydWZBSGFRMDdMNmFPakFMOGNmMTR4ekFCYm5JaVl2UHZYcXZKcE9rOWxVREtFcU13a2NLOGp6SUtxcXMybzRGTS1DMTZ3RkZ2MVlBVFVWeXlMZ0pCNHlRcTk3RmdvbjNsdF9BRy1USjNaY3c?oc=5",
        "date": "2026-09-27T13:09Z",
-       "right": false
-      },
-      {
-       "title": "Serving at his pleasure: What it’s like to be in Trump’s Cabinet",
-       "source": "Politico",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaXZ1N1B6RnFrLWZHVVUySTVsVDZJREVvakdNWXFyUkxRVHJyc1l6M3NDc0IxZkw0b1o4RUNRQ2VxTFNENXhfeGNqUkpJV293NW9YNUstOGI1TFdFZnpOSldfam4wU3V2N2VETlpHd21LMi1OMk9DX0dzZ3cybGl0YmtVSjJmaUk?oc=5",
-       "date": "2026-09-27T11:00Z",
        "right": false
       },
       {
@@ -1988,9 +1936,9 @@
        "right": false
       },
       {
-       "title": "Green Party of the United States (GPUS) | Goals, Values, History, Elections, Candidates, & Facts",
+       "title": "Mitch McConnell | Biography, Senate, & Facts",
        "source": "Britannica",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lQjNjNVJUR3hhN29wY1lzUWM3cHN0bEZwTjYzbm1Ic3hzNU1IdjVfQWlBZ2xhblEyZ2FSVUw3OTFFNFR5WWNsMGQzNnR2Si1XdGxJUDRHVEgySFZ3T1FJcE9SOFVDV1pGamhJUjBoOGlTS1k?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92S29VdG55a2Z6cWM2SE9ZS2x5VlBkSTVfdXU4cGNIZ3JrRU9iRE9XR1pJTXN3aklud2o0QWZtd0pnZ2JCSldEeUpseU05ME5BNGhFZm10V3A4blowdHhPSGdR?oc=5",
        "date": "2026-09-27T05:00Z",
        "right": false
       },
@@ -2024,9 +1972,23 @@
       },
       {
        "title": "Kennedy Disclosure Shows $4 Million in Book Advances…",
-       "source": "inkl",
+       "source": "inkl.com",
        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnFmYldzeC1iUV9HY0JWZmlNNkZsRUFWRFI4enN1c0VLMlo5cGFkby1WVXBtQ1UwQXJkdWxHM1ppTmJLWEpQTTdOc25RTGY4eEowQmJfQnV0b2Rlb3EwZjFLOXhtNVNVanNBbmhsaVl5Y293Y1JDTHo5ZFE1dlhxZ0ppQlJ6eWFBaW5mUXVSVmpGVUZnbDZfZlR5bWxPQnBiVGp2Z2Q5SGdjZGF0TmgwYkR5bXZuUWxGaHNVZUdIM2l3NGVEWWhuVW80S1FQSkoxUWpN?oc=5",
        "date": "2026-09-26T02:15Z",
+       "right": false
+      },
+      {
+       "title": "RFK Jr slammed by doctor as he launches Fortnite character in 'scary' development",
+       "source": "Irish Star",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMm5WSGFDenprWllsUVRGeGRVXzFxekdqN21ORmttampfWVFMVy1WVkRyN2JXWjczN21qeDRsRVVSV3BLVWdHSDA4R19FeE1leThJWklNN1NBM1hrMk5ORndaZ084SnZhUnZzbnZVUFBMY3lZYkZpN0M3Q1REWXlBWDB2bF9kQdIBiwFBVV95cUxQUlNUMWZSQWN6em1JVkdrcmJrcDl5UzFSM2NCMmdxcjk1VFdQekRaZzFOVWFucFR0dTJaSXRlRjBCMWEtM3lib0pWSE9BWUhfMzl2V2I3THlzZ1pqTlA4QXI5eUJZRkd4aHpsc2FKU0tsUy1XV3h1RGd6d0IyWDRaR2NWSzBsY2U5X3RZ?oc=5",
+       "date": "2026-09-26T00:00Z",
+       "right": false
+      },
+      {
+       "title": "Rand Paul Considering Running for President in 2028",
+       "source": "thenewamerican.com",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGhJZ1lMLWJnMjkxUHg2UXBXWEY5RGZXSVdqY005eV8wOXk1ZHV3US1XY1J1V2ZBYnpKNWNWcm9BRWRQRlhKME9HbENEaDJZR2tXS2hVSEVJRWZ5Q1pYSFBMY3dxWnpYZEV5N0ZwZTVBYU9fVlhWT0s1NFZQRkM4LUZNOWUyeVlLMDR1SUZsMXlIT1lpUWNYUjF3?oc=5",
+       "date": "2026-09-25T21:37Z",
        "right": false
       }
      ],
@@ -2039,9 +2001,9 @@
      "bio": "Chris Christie served as governor of New Jersey from 2010 to 2018, and ran two unsuccessful bids for president in 2016 and 2024.",
      "poll_avg": null,
      "declined": false,
-     "mentions_7d": 29,
+     "mentions_7d": 28,
      "right_7d": 5,
-     "right_pct": 17,
+     "right_pct": 18,
      "at_cap": false,
      "headlines": [
       {
@@ -2053,7 +2015,7 @@
       },
       {
        "title": "Chris Christie says 2028 campaign could be ‘I told you so’ tour | CloseUp",
-       "source": "wmur.com",
+       "source": "WMUR",
        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2RKZ3p6SHYtaFlJdUZ1RUVJWlRTb1JoY1dKd1ZvOEllOHVOdWMxZW9rNVdHWl80ZFFZY1NrMGtSQUZfSlZHOEo5UlBvOGMxMk1saktxbWl5XzR2dWU3NEhhWGVlam14Y1EtQnNGSlJKVjdtZlhDa2I5NkRyS20wbw?oc=5",
        "date": "2026-09-27T19:50Z",
        "right": false
@@ -2074,14 +2036,14 @@
       },
       {
        "title": "Christie for president again? A midterm rout could help him | Opinion",
-       "source": "northjersey.com",
+       "source": "Bergen Record",
        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQblp0YkFSemItNldkWFZ2RHhkZkcwSURoTThxdV9WdnpEYURVWVhBcEVPcDAyTXA2YlctVTJneHNJR1E0c2FwSXZXa3FCNm9HVVZLekFDX1Z4UGt1T2lISHJiNUVLSlJOdW1ETlhaMzlOVmZxaXRGdUtycEZ6aDJvNDFoSTFKSGhCYTE1TzlRWVZfSzFtZndfcnA3Sl9wYlZVU0JDdUhmcHNOODJRTzRUM1RndkJjUGFma0tQdXRGeVdmbWFNN095RThvNlp2TG9lY0FZMVBEOVp0SXVQNzc3bGdB?oc=5",
        "date": "2026-09-24T22:35Z",
        "right": false
       },
       {
        "title": "Chris Christie on 2028 presidential run, 'Are we tired of losing yet?'",
-       "source": "northjersey.com",
+       "source": "Bergen Record",
        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkpISVFBTG03SE5kWFhMSEFRVzEySzk4Skk0NkdKcWpqT2tjNlN4MzZkS3daTUVGcXhqeWxuLVM2UDN5bDJsMUZjOXpsX3NZZHlJWVA4NEM1enNNZ0JOQ1E0NlAxaXV4ZjBlQjhDTTViYWxyYktLeE1JMUpNc3gtRXJUMDdHZHBTVE5qSzhjd003RWhqVTdQOTdXSExSb0g3cFNoUy16WjhuTU14NlFOZjdPTDJpa3M?oc=5",
        "date": "2026-09-24T22:34Z",
        "right": false
@@ -2102,7 +2064,7 @@
       },
       {
        "title": "Charlie Stile on Chris Christie's chances if he runs for president again",
-       "source": "northjersey.com",
+       "source": "Bergen Record",
        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMzdiaVNPUGlCR1I4X3MyWHRWYTRqVnhfWW4wUmVHT0w1UHR6UDdFeUg4RGhEMGtFV2U2ckFqOEQ3S2pWT0tyX1ZSb1VMb1hndFRGOXcyZ21QaHZWeWVKdm9BdG9jRmF1VjVmSklaT0ZQNVpyNUhTZ2FQTzJOWjBSSnRUcjFSLWM1bEdwR3lyd2RnaEVGcjlJSmEydEkwWXRhY080QkVXNDJ0TjBzNGdVaWZraUxmYTFCcDRyWUhpUC1LbVhRNFpzejVqYUMzUkdOSklMdFJhQjdRcFY3THF5RA?oc=5",
        "date": "2026-09-24T09:58Z",
        "right": false
@@ -2115,15 +2077,8 @@
        "right": false
       },
       {
-       "title": "Kamala Harris, Chris Christie considered as possible candidates in 2028 presidential election",
-       "source": "WUSA9",
-       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPTzdNVmZzMGtyVk1TbkQteHJDX2JqUnJMZEZFVmlKUm1XYWVaZ21kVW9JSDAwb0NQZWVKQXRuUmtPZVJ2T1p4TnBRaGZKS3VDX196TnA0WGp6TzFoNXRiQzVVRzVpWTNsMzNGaHlfN2JpcUgtWkYxU1lDaWE2Uk1qUEJySTdYN1RDSXYzRmRtOEZrY2JRQ0QxSXJ0akZ3cEo1UmRyMGVyR3BvQ2xhZTRnUUxzU1dVTUtKZU82U2o5bjZTS0NJVS1RdHRZT1VKWDQyQXpJRGlyakJTb016eEtHQnZYb1VjVUQ4ekJjY1JzcTR0bTMyOFNURmtCTThVenQ5ekswcjN4U1ZrWGRDa1gzTHpFeDByeHdDYkQ1Xw?oc=5",
-       "date": "2026-09-23T21:29Z",
-       "right": false
-      },
-      {
        "title": "Chris Christie Teases A Third Presidential Run In 2028",
-       "source": "huffpost.com",
+       "source": "HuffPost",
        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVJMUWgzNTZQNV9aVWpHRmtYek45U01kZWJqVTNld3NNeGRtODdMNEZLNjBJYUtKNzBSWHFjcFFIZG80Wll2NmxNLTlyTW9jUHNYR1RoNWUwODhxUEo4YXhtMm5KbzVzYUo4dXJKaGFMa29Nd2l2Vm5LM25HbEVoaEh1R1FzaU5LWmdWTlR0SmhaUUZnOTJrU0RzaGY0NTJ1SGfSAacBQVVfeXFMUG1hRHlYby1PT0sxZzRBOTR5VS1ITEo3WEl6aEpYX280Z2VJd1RPRVdhVGZnSGF3Z19TN3VHMi03bjV4SU96LUpFZUp3OFo5S25ScjBERWZsd092WU5wM0NvUk94MExadEw4ZGZGcmxFM2JPaHdyUmJkYUo0TzlEdU95U1hlcFpxVzBEZl9vYWhUNTBfdjdiX1V2cEx2c2lLTm1VQjROMXM?oc=5",
        "date": "2026-09-23T19:56Z",
        "right": false
@@ -2148,6 +2103,13 @@
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV1lDN0pGM2FibE9pbmprUUctZzFYZ2dVU1BaOVpXdkpyREdsQzNnQ1piQld6cUlSUlU1aTZJUmVSNV8ybDlIb0RsTGpNUnlUYUZETlM5V1RKOENESUx4dy1RbUxQcnIzSl95NjlIRzh0eXEyeEdZVGRSY3ZaNklpU1o3aUVBeGRSSHRuNlVvY1hseExybVNHd0VTTG1LQUhFNTBFcGNuaVpiLXlKbU9SUjRMVlE0Mk9J?oc=5",
        "date": "2026-09-23T17:16Z",
        "right": false
+      },
+      {
+       "title": "Chris Christie Considering Run For President After Trump Leaves Office",
+       "source": "Patch",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2hKd0tvRHYtaGo1WWtuUndBQzl2QmxESzJhc2l5SHZSZ05iQURTdGFIcVhDTTJjMmdWOHVXQnBfTHlTc1JDMjBFSlR2WENDdzRreFNkeExuVEwxYUJMRzkxTmpGWHEtbTRZaU0xdmpfd2wxakozdnl5REZHUi0yNXJnck9FNk9FdE5ZR0ZBWFRpeVFlUmJJVGZ0NkI4NWl3d1HSAcABQVVfeXFMT1FmUWRDOGVFMnBndWhOZ3ZFbzhpTDN0eWlOeXpKLV92WTk2M2NjOTVtcTU5cVJjQXlhR0xERnAtbk5GWjdzX0RBeUVEemtudHZSQ0RucWtzTU9OTzNKYmFaLUtONU1VeUlLdHpQVkdaaEZialc4VC1wa19ia2M5a2o5eC1RZTA5VnFucGpzNVZDX2Z1TThtNlpYcm9rRzJISllTLTNTT1RLeGNGN2NvNzZvYnd1V0piM1ZBVlRmSUMw?oc=5",
+       "date": "2026-09-23T17:15Z",
+       "right": false
       }
      ],
      "rank": 4,
@@ -2157,11 +2119,11 @@
      "name": "Ted Cruz",
      "status": "Interested",
      "bio": "Ted Cruz has served as a United States senator from Texas since 2013 after being appointed as the 3rd Solicitor General of Texas by then Texas Attorney General Greg Abbott, he served this role from 2003 to 2008.",
-     "poll_avg": 3.0,
+     "poll_avg": 2.8,
      "declined": false,
-     "mentions_7d": 28,
+     "mentions_7d": 27,
      "right_7d": 6,
-     "right_pct": 21,
+     "right_pct": 22,
      "at_cap": false,
      "headlines": [
       {
@@ -2186,13 +2148,6 @@
        "right": false
       },
       {
-       "title": "Texas 33rd Congressional District 2026: Latest Polls",
-       "source": "The New York Times",
-       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2htS0xFclVzUFRMYVFLSTBDQ1FNYm5pRjBtSUdHZW9RVmxKZ0tXUTFDMk1US05pTEJreVZ0aWM2VFdEUWhrRmpFSjR1Sy1GNmJVTDNyTWZmcG0xajJXeEhOd25BQ2FaaThSODJORzlnMmx1eXAzaURYUmo0SFY2WA?oc=5",
-       "date": "2026-09-28T17:27Z",
-       "right": false
-      },
-      {
        "title": "JD Vance Faces 2028 Challengers as Republicans Test Waters",
        "source": "Newsmax",
        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3RfbXJCLTZZVnQyOGlVOGR6bV9DVEhUUGt5eFMweGNkNDZYSXowVWQtZy1RWU1SaW5nS1ZUUHg2aFdvTVhYQTZUMzMyWENaNFl0TnRwVlR5VHV4cDdleFVWRU9GZUgwVlJqN3JLVU92Z3MxcERmLU1KOTNMcHkxWlJZekdSSEk?oc=5",
@@ -2208,8 +2163,8 @@
       },
       {
        "title": "Democrats keep coming to South Carolina to stump for midterm candidates. It's all about 2028",
-       "source": "ClickOnDetroit | WDIV Local 4",
-       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObHAtdlFKMWoxQWc0MDZSVWpqTXd5OTdmYUxQdk8yN2JlWmNpUlZqSHYtNHNLS2N5Wi1CdGJ5aFJGd3FCakcxLUJjVVJsSUZZMlZsblhGUU91cXludXhQdHF3UFVIMmg5WlVkak16a0U4RllpdGk5aUQxNnFaV0VDUHQ1WWpOU05ra2lWUnNZVkZaY0plaXpCVGlxVVQwbUtRaTJvUk5yTm9RT1JiNlNjMTFlUVVrN2dReV9YRnVhVkNzejc4dzVQZHEzR2pneWViaVBJVks1NEIyN3J0VzA2SA?oc=5",
+       "source": "News4JAX",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbzd6Y1NwUUl5WVJoSnlMc3BYRjAxUV94MzRrQ1otdWNhSkIyOUJvT0xweDJXYVRveFl4a2M5b01GbkhDS2tDRjdlU0gyOGpBajFXU3ZBanp4U0toSEJrWFlDQ1NFd3dTTWhIUFREQUxHckdBUDR4dVU5RkJYbGlDOERxZWdSeDB2aG10MDExeDlTWnhYaW5hWEJNVHVjekNZVzhiSlllZVVsV1Z1WU1kWW1rN3pSY1ZnMzc4dEJwamJLZ1kyT0lNMFMzd3hNZjVhSWo2d1lkc00?oc=5",
        "date": "2026-09-28T12:29Z",
        "right": false
       },
@@ -2257,7 +2212,7 @@
       },
       {
        "title": "The US Presidential Candidates 2016",
-       "source": "The Political Compass",
+       "source": "politicalcompass.org",
        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yYmw5UmZwUDEzYnhpTFdPTDZ5LU81MGMxdVpJY3VTM3g3a2hhbV9JNXJZbGdnQW9acTc4VjNzM0xIeFdRamd4dVFMU2x0SElUVTlmUXJ1MG5zUXM?oc=5",
        "date": "2026-09-25T07:00Z",
        "right": false
@@ -2268,9 +2223,94 @@
        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZLUdqRDY5ejJzT2d6b0VISXFTeF83d0s1Vnh4Zjdiak10TEQtWS1yVUxEU1ZBdjAxOE5sT1doVjJfNWJ1SmV1NlZseDFkbENfVnB0akRzTE8?oc=5",
        "date": "2026-09-25T05:00Z",
        "right": false
+      },
+      {
+       "title": "The 40: GOP Spending Binge, Abbott's Border Billions, and a Lane in the Presidential Shadow Primary",
+       "source": "thetexan.news",
+       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWVU5cVZyM1lCSWlmZjRDWWFpOGFxUVBRaFdJbGRNU0Y5WEtyYk12b29lZkxjc1VGYWRBX0xNSWoya0V3SUtJRFJxTkdRVWpXY1FNbjdScEZORjg4S3R4UVFiVV9PUWVXbkx4WFdPdFlMTXpZOVAyQVZVcTNDSl96dTE4N2JnRDZvUmVHc3RtVXVzOVlZZ01LMVd2Wmkxbng4ZmYwMjc2dFhNZ1o4bkwtUWxDckllVjlfcjYxTWpjYUVEbUoxMVlUQnNGVHhBT3F6Wm4ySjBOVk5XazRjb2tRRzRZRlpLYmJ5RDRwVGhvN0N3bmxEUVc0Wjk1SVNJZFVXYjRyTjZHTHp4dw?oc=5",
+       "date": "2026-09-24T12:00Z",
+       "right": false
       }
      ],
      "rank": 5,
+     "delta_wk": null
+    },
+    {
+     "name": "Brian Kemp",
+     "status": "Speculated",
+     "bio": "Brian Kemp has served as the governor of Georgia since 2019.",
+     "poll_avg": null,
+     "declined": false,
+     "mentions_7d": 9,
+     "right_7d": 0,
+     "right_pct": 0,
+     "at_cap": false,
+     "headlines": [
+      {
+       "title": "2026 Primary Election Calendar: What Races Are Today?",
+       "source": "NBC News",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wZ0FEZ0NyOGRRU0hlSW1zbWo4bUFWTDRybHFSQWVMQUdFQ0FuVWNvenRFV2pVZkVueDNfckY2SjZraUo1d2xLX2VDVDN5eEpja1YyOWp1SDdYaFY0ajV1Z3VmZWV2blNaUk5FOXhDeU5wdw?oc=5",
+       "date": "2026-09-28T20:51Z",
+       "right": false
+      },
+      {
+       "title": "Georgia Election 2026: Key Races and Historical Presidential Election Results",
+       "source": "NBC News",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVmdoeEEwNVJJOWJvVlVMaVg5aVRmRFFQZUdDYzF3bzJIaC11cURSNTY2VzRuUVgxSTZuVkdwNW9NTlE2M3k5QXVSZldRbU5XcWJqVWtueTFNNEszZHQ2dW5SSGh4NTA4WEpIRGlfWUM?oc=5",
+       "date": "2026-09-28T20:45Z",
+       "right": false
+      },
+      {
+       "title": "Truett McConnell University inaugurates Dr. Larry W. Lyon as 9th president",
+       "source": "christianindex.org",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDNRTVBBZWcwbWE0MXNlVjlDN3hlOUlnaFhRckE1M2hheXJmaE1FUWFUMWR2UlJfSTJmRmxtMV9fOC11SzZCMUNaYVhUNzlQWGxiZGdYNVNvZ0c2SHpiSzZ6NGpMVFU5S3pvTk1EYXlnM0l6ak1rUHg1MU54dDF0aTlMcGF5TUdueE5SdnR2LWpPdUFPbm9fZmhXOFg1NjFmbzNDd011eUlPWXlQTlN1aWZKNzY?oc=5",
+       "date": "2026-09-28T19:40Z",
+       "right": false
+      },
+      {
+       "title": "Rick Jackson’s Chances Boosted Against Keisha Lance Bottoms in Georgia Race",
+       "source": "Newsweek",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1o2azU4NkpoRExHV0tkcUNmaXN5THR0N2x2SnotMTFiSWJQQ214MVI5QzlfZ0N1TlRFUzdvY05JTVppMTNJd09MN2tjRklzaTl6N25FVnV2YXU1MnlySmdRdjhsY0hYUmJZbHZqNFBaRlE0S2k2UnRMNkg1NTJtWU5PMm5oa3JHb0hR?oc=5",
+       "date": "2026-09-25T17:28Z",
+       "right": false
+      },
+      {
+       "title": "Republican leaders rally behind Mike Collins amid lingering divisions",
+       "source": "ajc.com",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRMemRIRlpJWXdXNTFMY3hYQXdMZjNaOVBCUVU4c2FCRldUMmhZQVdJenhNUzlQdkZoVkxpSzRpek4xQ0tGa1NsNnItZXhzWmFQT1hkclZ5NjJ0RnhWU3ZYYkY5T2tGcU5hbWFFaHd0M0lFMEpoSGlKUXZoeDMyeGZpRE1sZHBtSkNoUU54UVNmdDVYVi1kS1VFV2RMU1ZwT1ZKMjlpOXJjOTQ?oc=5",
+       "date": "2026-09-25T14:05Z",
+       "right": false
+      },
+      {
+       "title": "Peach State Poll: Jon Ossoff Opens Up Lead Over Mike Collins in Georgia",
+       "source": "BIG DATA POLL",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFNLZEdhMURQT2VYMTZNRGNoRm11OUlsVndDQ2xSYlFfbkl0Q29KX2lnWmtZMXY3enJDampKZkR6TVpJRTRqd3R0dVVJU2NJSkktUnFha1dTRklYeUMyLWJWVFcyUWlRVnNfUHRrc3phbllLTU1ERWpUM3pOenJfMXdyR0VqeUhBaTlNeDU5QV9DM0hNX3ZBdnZVV0RlOWRCTlJjRXNsTQ?oc=5",
+       "date": "2026-09-24T23:02Z",
+       "right": false
+      },
+      {
+       "title": "Trump critic considering third GOP White House bid: ‘That doesn’t leave your brain’",
+       "source": "Cleveland.com",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWU9tQUFPVjRwXzc3a29mVncyakN2ZGNteXZTdmdOeEhHSExpRkFYX2pXLWhfbGlpY0RURFdJS2ZTYkh2M2cyQUtHQU1IU1BVRUpiWTYwWkViNkNvSlRPZlFnNFg0R3RjMzllRXdWMUdDcEtMYnZVVUtZZk5kV0FuNEFhVjVWQm1iWExrLUI1V2tPeGhGVGtTWmVNc3pUSEZUcW1GNmdDSGRYdWZFazQ1bWFUdl9fVEN3YVFEem1pOWU4NE5CNXc?oc=5",
+       "date": "2026-09-23T15:34Z",
+       "right": false
+      },
+      {
+       "title": "Christie Weighs Another White House Bid After Midterms",
+       "source": "VINnews",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGtRMC1mMWR2Q1Rwd0JPdHFkajRtaS1PZmh0d1pLY3h5U3ZFbmNGRU51YmQxeGJ1X3dndnVOV1k5QjA2a3FfMkE4d1Z2RnFRYUE3R1lCa2ZiUUtXZk5UaUlDSklSdkh6d0tmX2w5Y0RMeGJ5UDl6dHFSRm1GNVBwZnNJelpQNk9CZVYzT2VOQQ?oc=5",
+       "date": "2026-09-22T19:18Z",
+       "right": false
+      },
+      {
+       "title": "A new Georgia law makes most Atlanta-area county elections nonpartisan. Two DAs are pushing back",
+       "source": "WABE",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUdQeHN2a1FfaVhWVXJUSEdCUVB6anJaSU1VTWd1aDB0aTQxbTRuYnZBUHZjaVJQV0FMcHlKN1Q1akRVVWxFUHJKSW94QVViUkZmVkx5S0xFQ19uTC1hUWdIdUZ4YnVmSDNjSFU5aUNMeHF1OFhIUFFBeGJTUHR1ZmR2eWZoNXhRZnFxMkhfWjR6Rm1xWGdV?oc=5",
+       "date": "2026-09-22T14:32Z",
+       "right": false
+      }
+     ],
+     "rank": 6,
      "delta_wk": null
     },
     {
@@ -2279,7 +2319,7 @@
      "bio": "Sarah Huckabee Sanders has served as the governor of Arkansas since 2023 and previously served as the 31st White House Press Secretary in the first Trump administration.",
      "poll_avg": null,
      "declined": false,
-     "mentions_7d": 8,
+     "mentions_7d": 7,
      "right_7d": 0,
      "right_pct": 0,
      "at_cap": false,
@@ -2327,88 +2367,10 @@
        "right": false
       },
       {
-       "title": "OPINION: Who is on the Nov. 3 ballot for mid-term election?",
-       "source": "Northwest Arkansas Democrat-Gazette",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzJjMlIxY3BnX0hKX0FzNXFyaTBwbU9UbUtTZlZLVy1mVjBlNkFtOFFXM1kwMWdaYVZUWGNwemJSeDNjclEtNWEzNjFfQ3U2VmFqa0FZdm5vTWI0X1hqQW1xaEpFVHNBV3o4Rk4wUGhWSE5kMEdIOG9fdC1MM1U2Um1VR2xoeGxXTEhjUzhLWS1jeHQ3U1Vv?oc=5",
-       "date": "2026-09-23T09:00Z",
-       "right": false
-      },
-      {
        "title": "Buc-ee's is coming to another state neighboring Kentucky",
        "source": "The Courier-Journal",
        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM2RGVklYMXVKM0VxcEszdzg2ZEMwMW1fU29oQVl1emxTSGNpdkNGY0hrV3hwQ05talI4S2c2WTctRnlDWmZTWnBWc1VZZEQ0NElESzB5WlJER1hDVzJLeFkwUXJLNF9HeGVCY0NFSmdsbTVvSklnQWJQaDFTYi03bnQ4clhJVTB4SGZHUVFkZlVHeGYwbnhBOUFrSkVYdlBySmJkZ01zSmhMY0poYnRYM3VwMkFyWDNuNkdnbDRiMklIZVB5UHkxQVVjbU5LSVFiUmpwUUhPTlg1eGFn?oc=5",
        "date": "2026-09-22T13:18Z",
-       "right": false
-      }
-     ],
-     "rank": 6,
-     "delta_wk": null
-    },
-    {
-     "name": "Brian Kemp",
-     "status": "Speculated",
-     "bio": "Brian Kemp has served as the governor of Georgia since 2019.",
-     "poll_avg": null,
-     "declined": false,
-     "mentions_7d": 8,
-     "right_7d": 0,
-     "right_pct": 0,
-     "at_cap": false,
-     "headlines": [
-      {
-       "title": "Georgia Election 2026: Key Races and Historical Presidential Election Results",
-       "source": "NBC News",
-       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVmdoeEEwNVJJOWJvVlVMaVg5aVRmRFFQZUdDYzF3bzJIaC11cURSNTY2VzRuUVgxSTZuVkdwNW9NTlE2M3k5QXVSZldRbU5XcWJqVWtueTFNNEszZHQ2dW5SSGh4NTA4WEpIRGlfWUM?oc=5",
-       "date": "2026-09-28T20:45Z",
-       "right": false
-      },
-      {
-       "title": "Truett McConnell University inaugurates Dr. Larry W. Lyon as 9th president",
-       "source": "The Christian Index",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDNRTVBBZWcwbWE0MXNlVjlDN3hlOUlnaFhRckE1M2hheXJmaE1FUWFUMWR2UlJfSTJmRmxtMV9fOC11SzZCMUNaYVhUNzlQWGxiZGdYNVNvZ0c2SHpiSzZ6NGpMVFU5S3pvTk1EYXlnM0l6ak1rUHg1MU54dDF0aTlMcGF5TUdueE5SdnR2LWpPdUFPbm9fZmhXOFg1NjFmbzNDd011eUlPWXlQTlN1aWZKNzY?oc=5",
-       "date": "2026-09-28T19:40Z",
-       "right": false
-      },
-      {
-       "title": "Rick Jackson’s Chances Boosted Against Keisha Lance Bottoms in Georgia Race",
-       "source": "Newsweek",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1o2azU4NkpoRExHV0tkcUNmaXN5THR0N2x2SnotMTFiSWJQQ214MVI5QzlfZ0N1TlRFUzdvY05JTVppMTNJd09MN2tjRklzaTl6N25FVnV2YXU1MnlySmdRdjhsY0hYUmJZbHZqNFBaRlE0S2k2UnRMNkg1NTJtWU5PMm5oa3JHb0hR?oc=5",
-       "date": "2026-09-25T17:28Z",
-       "right": false
-      },
-      {
-       "title": "Republican leaders rally behind Mike Collins amid lingering divisions",
-       "source": "The Atlanta Journal-Constitution",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRMemRIRlpJWXdXNTFMY3hYQXdMZjNaOVBCUVU4c2FCRldUMmhZQVdJenhNUzlQdkZoVkxpSzRpek4xQ0tGa1NsNnItZXhzWmFQT1hkclZ5NjJ0RnhWU3ZYYkY5T2tGcU5hbWFFaHd0M0lFMEpoSGlKUXZoeDMyeGZpRE1sZHBtSkNoUU54UVNmdDVYVi1kS1VFV2RMU1ZwT1ZKMjlpOXJjOTQ?oc=5",
-       "date": "2026-09-25T14:05Z",
-       "right": false
-      },
-      {
-       "title": "Peach State Poll: Jon Ossoff Opens Up Lead Over Mike Collins in Georgia",
-       "source": "BIG DATA POLL",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFNLZEdhMURQT2VYMTZNRGNoRm11OUlsVndDQ2xSYlFfbkl0Q29KX2lnWmtZMXY3enJDampKZkR6TVpJRTRqd3R0dVVJU2NJSkktUnFha1dTRklYeUMyLWJWVFcyUWlRVnNfUHRrc3phbllLTU1ERWpUM3pOenJfMXdyR0VqeUhBaTlNeDU5QV9DM0hNX3ZBdnZVV0RlOWRCTlJjRXNsTQ?oc=5",
-       "date": "2026-09-24T23:02Z",
-       "right": false
-      },
-      {
-       "title": "Trump critic considering third GOP White House bid: ‘That doesn’t leave your brain’",
-       "source": "Cleveland.com",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWU9tQUFPVjRwXzc3a29mVncyakN2ZGNteXZTdmdOeEhHSExpRkFYX2pXLWhfbGlpY0RURFdJS2ZTYkh2M2cyQUtHQU1IU1BVRUpiWTYwWkViNkNvSlRPZlFnNFg0R3RjMzllRXdWMUdDcEtMYnZVVUtZZk5kV0FuNEFhVjVWQm1iWExrLUI1V2tPeGhGVGtTWmVNc3pUSEZUcW1GNmdDSGRYdWZFazQ1bWFUdl9fVEN3YVFEem1pOWU4NE5CNXc?oc=5",
-       "date": "2026-09-23T15:34Z",
-       "right": false
-      },
-      {
-       "title": "Christie Weighs Another White House Bid After Midterms",
-       "source": "VINnews",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGtRMC1mMWR2Q1Rwd0JPdHFkajRtaS1PZmh0d1pLY3h5U3ZFbmNGRU51YmQxeGJ1X3dndnVOV1k5QjA2a3FfMkE4d1Z2RnFRYUE3R1lCa2ZiUUtXZk5UaUlDSklSdkh6d0tmX2w5Y0RMeGJ5UDl6dHFSRm1GNVBwZnNJelpQNk9CZVYzT2VOQQ?oc=5",
-       "date": "2026-09-22T19:18Z",
-       "right": false
-      },
-      {
-       "title": "A new Georgia law makes most Atlanta-area county elections nonpartisan. Two DAs are pushing back",
-       "source": "wabe.org",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUdQeHN2a1FfaVhWVXJUSEdCUVB6anJaSU1VTWd1aDB0aTQxbTRuYnZBUHZjaVJQV0FMcHlKN1Q1akRVVWxFUHJKSW94QVViUkZmVkx5S0xFQ19uTC1hUWdIdUZ4YnVmSDNjSFU5aUNMeHF1OFhIUFFBeGJTUHR1ZmR2eWZoNXhRZnFxMkhfWjR6Rm1xWGdV?oc=5",
-       "date": "2026-09-22T14:32Z",
        "right": false
       }
      ],
@@ -2421,11 +2383,18 @@
      "bio": "Don Bacon has served as the U.S. representative for Nebraska's 2nd congressional district since 2017.",
      "poll_avg": null,
      "declined": false,
-     "mentions_7d": 5,
+     "mentions_7d": 6,
      "right_7d": 2,
-     "right_pct": 40,
+     "right_pct": 33,
      "at_cap": false,
      "headlines": [
+      {
+       "title": "Top reporters float surprise choices on who could run for president after Trump",
+       "source": "news24.com.au",
+       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNb2N6dElXT25zclhNRWcwZzQxcTVNTWt3emtXVGg3aDgwQ01IMHB0N3ozV0N4VWM2eDJHT2xhSTI4RmZZTU84VUFQTlVoNUU1SUJLV1NWQ0J3bVdZTTg4NVhMb2pSRVVHS18zdWktYzQzWjlUZFlBV2NYYjEtb0IxOG1QSTMxZG1LNnZ5SFduQUs3R1pKOVRiVVNDcjZaOGlxc3A3SExReHRxeXJhVWo2dElxZXlOYkcySDFYeF9Qamgyck80cUdDdFZmN2JSeE41OVhZMXBGZ29uWXFCbEJBZ0VMZXpkcVJtWmhMeVM2ZkZaMk53R2lDR3F6U0ozZHNDenRqSWxEN2tFRkZmV0RZZ1B5cDhYb2liUERGMTVZMURkZUFEVmdCcjROak5Sc2fSAa8CQVVfeXFMTW9jenRJV09uc3JYTUVnMGc0MXE1TU1rd3prV1RoN2g4MENNSDBwdDd6M1dDeFVjNngyR09sYUkyOEZmWU1POFVBUE5VaDVFNUlCS1dTVkNCd21XWU04ODVYTG9qUkVVR0tfM3VpLWM0M1o5VGRZQVdjWGIxLW9CMThtUEkzMWRtSzZ2eUhXbkFLN0daSjlUYlVTQ3I2WjhpcXNwN0hMUXh0cXlyYVVqNnRJcWV5TmJHMkgxWHhfUGpoMnJPNHFHQ3RWZjdiUnhONTlYWTFwRmdvbllxQmxCQWdFTGV6ZHFSbVpoTHlTNmZGWjJOd0dpQ0dxelNKM2RzQ3p0aklsRDdrRUZGZldEWWdQeXA4WG9pYlBERjE1WTFEZGVBRFZnQnI0TmpOUnNn?oc=5",
+       "date": "2026-09-28T23:41Z",
+       "right": false
+      },
       {
        "title": "Heartland Republican calls out 'taxpayer-funded' TV ads in break from Trump",
        "source": "AlterNet",
@@ -2455,10 +2424,10 @@
        "right": false
       },
       {
-       "title": "Video shows tail-wagging moment when dogs were revived after house fire rescue",
-       "source": "KETV",
-       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0hVVWgzYkJVeXBlTy1GQ3R0bmNnbTE2QkdFb3laSml2UFd3QU1EUjA2Ynd4bzV2RjFjcWk3cklqNENpbjZxTXNOSlYySmVyUm1WSGg0TlZ5VEJzX0NrZHgwNzhDTC1qTUdwTUp1SFhHY3FyUEJNOHRKLWNUVjJmOGtB?oc=5",
-       "date": "2026-09-22T15:30Z",
+       "title": "Bacon Criticizes Tariffs, Calls for Bipartisan Iran Strategy During Nebraska Media Call",
+       "source": "klin.com",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkVmMmlGR09USDhCX0lWOGFOV3N6VFpDazh0TERwRU1JWmdmdEEzaWJxbUx1MjdEaWVsQUN5NWpNM2c1a2czZjVLcVFLZDZxbEk3QkVDaWoyR0YxcF9KUzBjY0tTVWRzZkhzOFBHb3BkX19Ha0hnQmRtZm1FbUNZQ2JrRExPUlBWa05VR0p4dFY5Rng0bW8xSUY4N254T0hRUGhKOGdzeWVrbmF3TU91R0NEcURQZw?oc=5",
+       "date": "2026-09-24T16:36Z",
        "right": false
       }
      ],
@@ -2485,7 +2454,7 @@
       },
       {
        "title": "Kennedy Proposes Ban On Buildings Named for Living",
-       "source": "Political Wire",
+       "source": "politicalwire.com",
        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaE93aFVIUkt5dWNNdXBGMW1FLUZ5cmp5LUJkNkZuTW9YQlNxUU5wMXRDWUV0MFVtdWlGd0JVc1dsN2d1dUg3anRSb05mUG1kd24wSVBybDc2bkVuSURwczNaWWZCaFZsY0xVVzd6Y09LY0phYUZCenlIUnh1OTR1Q0RITGpyRkhtOVNQdndtOHNSZw?oc=5",
        "date": "2026-09-28T09:33Z",
        "right": false
@@ -2564,7 +2533,7 @@
       },
       {
        "title": "ICE Barbie Teams Up With Notorious Goon to Drop Cryptic 2028 Hint",
-       "source": "yahoo.com",
+       "source": "Yahoo",
        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3l3cjF2NjhvSTBxQUh4WWdPVE9iUkE4VU9HUDJXWEZsc2NSNS1NRTVWdlhaMVhsYjk1UkZ3cEt0Z3pSTEp2bmJPSmpBbTM3aW8xQ2pkOGRoNlRYMXlRME9zT1BCUFpaYWQxZkg5NFNJNmZveXhuRHRkUU9OVjU3aWx1UG9ZTnpielZJdEFrRk5oOWFkcmc?oc=5",
        "date": "2026-09-27T12:06Z",
        "right": false
@@ -2627,7 +2596,6 @@
    ],
    "poll_aggregators": [
     "270toWin",
-    "Race to the WH",
     "Real Clear Polling"
    ],
    "poll_updated": "August 14, 2026"
