@@ -16,5 +16,18 @@
   "Roanoke", "Charlottesville", "Lynchburg", "Hampton Roads", "Newport News",
   "Chesapeake", "Fredericksburg", "Harrisonburg", "Blacksburg", "Winchester",
   "Spanberger", "Perriello", "DPVA"
+ ],
+ "_right_media_help": "Right-leaning national outlets. Case-insensitive substring match on the Google News source name (which is sometimes a domain, hence both spellings). Tags stories for the R-media % column; nothing is filtered out. Local Fox affiliates ('FOX 5 DC') don't match on purpose.",
+ "right_media": [
+  "Fox News", "foxnews", "Fox Business", "foxbusiness", "Newsmax", "Breitbart",
+  "Daily Wire", "dailywire", "Daily Caller", "dailycaller", "Washington Examiner",
+  "washingtonexaminer", "New York Post", "nypost", "Washington Times", "washingtontimes",
+  "The Federalist", "thefederalist", "Townhall", "The Blaze", "theblaze",
+  "Free Beacon", "freebeacon", "National Review", "nationalreview", "OutKick",
+  "RedState", "Gateway Pundit", "thegatewaypundit", "Epoch Times", "theepochtimes",
+  "Twitchy", "Western Journal", "westernjournal", "PJ Media", "pjmedia", "Hot Air",
+  "hotair", "Daily Signal", "dailysignal", "One America News", "OANN",
+  "Just the News", "justthenews", "Post Millennial", "thepostmillennial",
+  "American Greatness", "American Spectator", "spectator.org", "Daily Mail", "dailymail"
  ]
 }

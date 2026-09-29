@@ -118,6 +118,11 @@
   .va-ct { display: inline-block; min-width: 26px; text-align: center; font-family: var(--mono); font-size: .75rem; padding: 0 6px; border-radius: 10px;
            background: rgba(58,143,212,.2); color: var(--accent); border: 1px solid rgba(58,143,212,.45); }
 
+  .rm { font-family: var(--mono); font-size: .78rem; color: var(--muted); white-space: nowrap; }
+  .rm.hi { color: var(--warn); font-weight: 500; }
+  .r-tag { display: inline-block; font-family: var(--mono); font-size: .6rem; font-weight: 500; line-height: 1.4; padding: 0 5px; margin-left: 5px;
+           border-radius: 4px; color: var(--rep-lt); border: 1px solid rgba(229,115,104,.5); background: rgba(192,57,43,.12); vertical-align: 1px; }
+
   .chip {
     display: inline-block; font-size: .66rem; font-weight: 600; padding: 1px 8px; border-radius: 20px;
     white-space: nowrap; border: 1px solid transparent; line-height: 1.6;
@@ -144,7 +149,7 @@
 
   .sm { display: none; }
   @media (max-width: 700px) {
-    .bio, .col-delta, .col-status, .bar .track, .lg { display: none; }
+    .bio, .col-delta, .col-status, .col-rm, .bar .track, .lg { display: none; }
     .sm { display: inline; }
     table { font-size: .8rem; }
     td, th { padding: 7px 5px; }
@@ -189,6 +194,7 @@
 
   <footer>
     <p><b>News (7 days)</b> is the number of distinct Google News stories in the last 7 days that name the candidate with 2028 or presidential-run terms. The feed returns about 100 stories per search, so treat it as a relative measure of buzz, not an exact count. <b>Change</b> compares against the count from 7 days earlier and fills in once a week of history exists.</p>
+    <p><b>R-media</b> is the share of the 7-day count that came from right-leaning national outlets (Fox, Newsmax, Washington Examiner, New York Post, Breitbart and others listed in <code>config.json</code>). Those stories are marked <span class="r-tag">R</span> in the headline lists. Nothing is filtered out. A high share (shown in amber at 40% or more) means a candidate's buzz is being driven by the right, often attack coverage, rather than by broad attention.</p>
     <p><b>Virginia (30 days)</b> counts stories whose headline names both the candidate and a Virginia place or figure. This filter is strict on purpose: it is meant to flag visits, endorsements and other in-state activity, not every passing mention. <b>Poll avg</b> is the mean of the national primary polling aggregators listed on Wikipedia. The roster and status (Declared / Exploratory / Interested / Speculated) come from Wikipedia's 2028 primaries pages. A dash means no coverage or no polling.</p>
   </footer>
 </main>
@@ -216,10 +222,17 @@ function delta(v) {
   return v > 0 ? `<span class="m up">▲${v}</span>` : `<span class="m down">▼${-v}</span>`;
 }
 
+// share of the 7-day count from right-leaning outlets; amber at 40%+ once there's enough volume to mean something
+function rmedia(c) {
+  if (c.right_pct == null || !c.mentions_7d) return dash;
+  const hi = c.right_pct >= 40 && c.mentions_7d >= 5;
+  return `<span class="rm ${hi ? 'hi' : ''}" title="${c.right_7d} of ${c.mentions_7d} stories">${c.right_pct}%</span>`;
+}
+
 function feed(items) {
   if (!items || !items.length) return '<div class="empty">No stories found.</div>';
   return '<ul class="feed">' + items.map(h =>
-    `<li><span class="dt">${fmtDate(h.date)}</span><span><a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.title)}</a><span class="src">${esc(h.source)}</span></span></li>`
+    `<li><span class="dt">${fmtDate(h.date)}</span><span><a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.title)}</a><span class="src">${esc(h.source)}</span>${h.right ? '<span class="r-tag" title="Right-leaning outlet">R</span>' : ''}</span></li>`
   ).join('') + '</ul>';
 }
 
@@ -273,6 +286,7 @@ function renderTable() {
     ['rank', '#', ''], ['name', 'Candidate', ''], ['status', 'Status', 'col-status'],
     ['mentions_7d', '<span class="lg">News · 7d</span><span class="sm">News</span>', 'n'],
     ['delta_wk', 'Change', 'n col-delta'],
+    ['right_pct', 'R-media', 'n col-rm'],
     ['poll_avg', '<span class="lg">Poll avg</span><span class="sm">Poll</span>', 'n'],
   ];
   if (isDem) cols.push(['va_30d', '<span class="lg">Virginia · 30d</span><span class="sm">VA</span>', 'n']);
@@ -289,6 +303,7 @@ function renderTable() {
       <td class="col-status"><span class="chip st-${c.status}">${STATUS_LABEL[c.status] || c.status}</span></td>
       <td class="n">${bar}</td>
       <td class="n col-delta">${delta(c.delta_wk)}</td>
+      <td class="n col-rm">${rmedia(c)}</td>
       <td class="n">${pctTxt(c.poll_avg)}</td>
       ${isDem ? `<td class="n">${c.va_30d ? `<span class="va-ct">${c.va_30d}</span>` : dash}</td>` : ''}
     </tr>`;

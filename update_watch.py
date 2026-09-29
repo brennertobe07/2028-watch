@@ -14,6 +14,9 @@ Sources:
                  place/figure (config va_terms).
                  RSS caps at ~100 items per query, so counts are a relative
                  "buzz" measure, not an exact census.
+                 Stories from right-leaning outlets (config right_media) are
+                 tagged, and each candidate gets right_pct — the share of the
+                 7-day count from those outlets. Nothing is filtered out.
 
 Hand edits go in config.json (extra names, exclusions, search-name overrides);
 the script never writes to it.
@@ -235,16 +238,28 @@ def is_va(item, name_re, va_re):
     return bool(name_re.search(title)) and bool(va_re.search(title.replace("West Virginia", "")))
 
 
-def collect_news(c, overrides, with_va, va_re=None):
+def tag_right(items, right_media):
+    """Mark stories from right-leaning outlets (config right_media, substring match on
+    the source name). Tagging only — nothing is dropped."""
+    for a in items or []:
+        src = a["source"].lower()
+        a["right"] = any(r in src for r in right_media)
+
+
+def collect_news(c, overrides, with_va, va_re=None, right_media=()):
     term = search_name(c, overrides)
     wk = news(f'{term} (2028 OR presidential OR "White House bid" OR "run for president") when:7d')
+    tag_right(wk, right_media)
     c["mentions_7d"] = len(wk) if wk is not None else None
+    c["right_7d"] = sum(a["right"] for a in wk) if wk is not None else None
+    c["right_pct"] = round(100 * c["right_7d"] / len(wk)) if wk else None
     c["at_cap"] = wk is not None and len(wk) >= 95
     c["headlines"] = (wk or [])[:HEADLINES_KEPT]
     if with_va:
         va = news(f"{term} Virginia when:{VA_DAYS}d")
         name_re = name_regex(c, overrides)
         va = [a for a in va if is_va(a, name_re, va_re)] if va is not None else None
+        tag_right(va, right_media)
         c["va_30d"] = len(va) if va is not None else None
         c["va_headlines"] = (va or [])[:8]
 
@@ -302,10 +317,12 @@ def build_party(key, cfg, do_news):
 
     va_re = re.compile(r"\b(" + "|".join(map(re.escape, cfg.get("va_terms", ["Virginia"])))
                        + r")\b", re.I)
+    right_media = [r.lower() for r in cfg.get("right_media", [])]
     if do_news:
         for i, c in enumerate(roster, 1):
             print(f"  [{key} {i}/{len(roster)}] {c['name']}", flush=True)
-            collect_news(c, cfg.get("search_names", {}), with_va=(key == "dem"), va_re=va_re)
+            collect_news(c, cfg.get("search_names", {}), with_va=(key == "dem"), va_re=va_re,
+                         right_media=right_media)
 
     roster.sort(key=lambda c: (-(c.get("mentions_7d") or 0), -(c.get("poll_avg") or 0),
                                STATUS_ORDER.index(c["status"])))

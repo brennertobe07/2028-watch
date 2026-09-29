@@ -13,7 +13,9 @@ source rules, and daily workflow live there.
 ## Conventions
 - Python: stdlib + requests + bs4 only.
 - Hand-curation lives in `config.json` (extra names, exclusions, search aliases,
-  VA terms). The script never writes it.
+  VA terms, right-media outlet list). The script never writes it.
+- R-media % flags right-leaning outlet share; it never filters or re-weights the
+  ranking.
 - Ranking is by 7-day news count; poll average is shown alongside, never blended.
 - No coverage / no poll renders as "—", not 0.
 - Virginia coverage is strict on purpose: the headline must name the candidate AND
