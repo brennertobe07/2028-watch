@@ -89,7 +89,10 @@ Rank = sort by mentions_7d desc, then poll_avg desc, then status order.
 
 ## 5. Daily workflow
 
-Automated: Windows Task Scheduler task **`2028_Watch_Update`**, daily 06:30, runs
+Automated: Windows Task Scheduler task **`2028_Watch_Update`**, daily 06:30 plus
+4 minutes after Brenner logs on (catch-up for days the VM rebooted overnight and
+the 06:30 run was skipped — added 2026-10-14; staggered after poll-tracker's
+2-minute logon delay), runs
 
 ```
 python update_watch.py --publish   (in C:\repos\intel\2028-watch, output → data\last_run.log)
@@ -104,7 +107,8 @@ or fewer than half returned news results — yesterday's data stays live. The pa
 header shows "data over a day old" if `generated` is more than 36 h old.
 
 The task runs only while Brenner is logged on (Interactive, no stored password),
-same as poll-tracker.
+same as poll-tracker. A skipped 06:30 run shows as event 332 in the
+TaskScheduler/Operational log and is caught up by the logon trigger.
 
 Manual:
 ```
