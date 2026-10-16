@@ -13,7 +13,7 @@ compiled; the news counts measure relative "buzz" from Google News.
 - **Live:** https://brennertobe07.github.io/2028-watch/
 - **Repo:** `brennertobe07/2028-watch` (public — only public news/polling data)
 - **Audience:** internal for now, same as poll-tracker (decided 2026-09-28)
-- **Cross-links:** header button to National Poll Tracker (one-way; poll-tracker's link back here was removed 2026-10-15)
+- **Cross-links:** header button to National Poll Tracker at https://polls.vadems.org (one-way; poll-tracker's link back here was removed 2026-10-15)
 - **Status (2026-09-28):** v1 accepted and parked. Possible next ideas, not started:
   Claude summary of each candidate's week, state-level (early-state) poll tables,
   candidate visit/event tracking.
